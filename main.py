@@ -20,6 +20,25 @@ def greet():
     # starting and empty input default
     return render_template("greet.html", name="World")
 
+@app.route('/connor greet/', methods=['GET', 'POST'])
+def connorgreet():
+    # submit button has been pushed
+    if request.form:
+        name = request.form.get("name")
+        if len(name) != 0:  # input field has content
+            return render_template("connor greet.html", name=name)
+    # starting and empty input default
+    return render_template("connor greet.html", name="World")
+
+@app.route('/nataliegreet/', methods=['GET', 'POST'])
+def nataliegreet():
+    # submit button has been pushed
+    if request.form:
+        name = request.form.get("name")
+        if len(name) != 0:  # input field has content
+            return render_template("nataliegreet.html", name=name)
+    # starting and empty input default
+    return render_template("nataliegreet.html", name="World")
 
 # connects /kangaroos path to render kangaroos.html
 @app.route('/kangaroos/')
