@@ -1,35 +1,39 @@
 <!DOCTYPE html>
-<div class="center-block" style="margin: 2% 5% 5%; text-align:center; font-family: 'Arial Black', sans-serif;">
 
-    <div class="col-12">
-        <p style="color:white">Nice to meet you, {{name1}}!</p>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="https://csp.nighthawkcodingsociety.com/">{{name}}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+            <!-- url_for is a Jinja2 pre-processor that finds route from function name (def) -->
+            <a class="nav-link" href={{ url_for('index') }}>Portfolio</a>
+            <!-- stub is shown using the name of the route -->
+            <a class="nav-link" href="/stub">Stub</a>
+            <a class="nav-link" href="/greet">Nadira Haddach</a>
+            <a class="nav-link" href="/connorgreet">Connor Wang</a>
+            <a class="nav-link" href="/nataliegreet">Natalie Cohen</a>
+            <a class="nav-link" href="/main page">mini labs</a>
+        </div>
+
+    <div class="center-block" style="margin: 2% 5% 5%; text-align:center; font-family: Gill Sans, sans-serif;">
+
+        <div class="col-12">
+            <p   style="color:white">Nice to meet you, {{name1}}!</p>
+        </div>
+
+        <div class="col-12">
+            <form action="/greet/" id="greet" method="POST" >
+                <label style="color:white" for="name">How are you doing today Mr./Mrs</label>
+                <input name="name" id="name">
+                <input type="submit" value="Welcome!">
+            </form>
+        </div>
+        <style>
+            body {
+                background-color: steelblue;
+            }
     </div>
-
-    <div class="col-12">
-        <form action="/greet/" id="greet" method="POST" >
-            <label style="color:white" for="name">How are you doing today Mr./Mrs</label>
-            <input name="name" id="name">
-            <input type="submit" value="Welcome!">
-        </form>
-    </div>
-
-    <script src="{{ url_for('static', filename='three.r119.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='vanta.rings.min.js') }}"></script>
-    <script>
-        VANTA.RINGS({
-            el: "body",
-            mouseControls: true,
-            touchControls: true,
-            gyroControls: false,
-            minHeight: 800.00,
-            minWidth: 800.00,
-            scale: 0.50,
-            scaleMobile: 1.00
-        })
-    </script>
-</div>
-
-
-
 
 
