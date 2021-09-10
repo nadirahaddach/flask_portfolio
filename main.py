@@ -83,10 +83,6 @@ def hawkers():
 def stub():
     return render_template("stub.html")
 
-@app.route('/binary/')
-def binary():
-    return render_template("binary.html")
-
 @app.route('/concepts/')
 def concepts():
     return render_template("concepts.html")
