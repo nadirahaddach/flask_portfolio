@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="https://csp.nighthawkcodingsociety.com/">{{name}}</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-            <!-- url_for is a Jinja2 pre-processor that finds route from function name (def) -->
-            <a class="nav-link" href={{ url_for('index') }}>Portfolio</a>
-            <!-- stub is shown using the name of the route -->
-            <a class="nav-link" href="/stub">Stub</a>
-            <a class="nav-link" href="/greet">Nadira Haddach</a>
-            <a class="nav-link" href="/connorgreet">Connor Wang</a>
-            <a class="nav-link" href="/nataliegreet">Natalie Cohen</a>
-            <a class="nav-link" href="/main page">mini labs</a>
-            <a class="nav-link" href="/concepts">Concepts</a>
+{% include "layouts/navbar.html" %}
         </div>
 
     <div class="center-block" style="margin: 2% 5% 5%; text-align:center; font-family: Gill Sans, sans-serif;">
@@ -32,9 +17,6 @@
                 <input type="submit" value="Welcome!">
             </form>
         </div>
-        <img src="pic_trulli.jpg" alt="Italian Trulli">
+        <img src=/static/assets"pic.html" alt="Italian Trulli">
         <style>
-            body {
-                background-color: steelblue;
-            }
-    </div>
+            body {background-color: steelblue;}
