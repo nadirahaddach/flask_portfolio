@@ -1,3 +1,9 @@
+## Notes During Work
+### Week 2
+#### Integrated Greet
+#### Made a Greet page for each member and made it a mini-lab page
+#### Made greet function on each persons page
+
 ## [Flask Portfolio Starter](https://nighthawkcodingsociety.com/projectsearch/details/Flask%20Portfolio%20Starter)
 Runtime link: https://portfolio.nighthawkcodingsociety.com/
 ### Idea
