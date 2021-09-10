@@ -53,6 +53,16 @@ def mainpage():
     # starting and empty input default
     return render_template("main page.html", name3="World")
 
+@app.route('/binary/', methods=['GET', 'POST'])
+def binary():
+    # submit button has been pushed
+    if request.form:
+        name = request.form.get("name")
+        if len(name) != 0:  # input field has content
+            return render_template("binary.html", name3=name)
+    # starting and empty input default
+    return render_template("binary.html", name3="World")
+
 # connects /kangaroos path to render kangaroos.html
 @app.route('/kangaroos/')
 def kangaroos():
