@@ -17,7 +17,7 @@ def greet():
         if len(name) != 0:  # input field has content
             return render_template("greet.html", name1=name)
     # starting and empty input default
-    return render_template("greet.html", name1="World")
+    return render_template("greet.html", name1="Nadira")
 
 
 @app.route('/connorgreet/', methods=['GET', 'POST'])
@@ -28,7 +28,7 @@ def connorgreet():
         if len(name) != 0:  # input field has content
             return render_template("connorgreet.html", name2=name)
     # starting and empty input default
-    return render_template("connorgreet.html", name2="World")
+    return render_template("connorgreet.html", name2="Connor")
 
 
 @app.route('/nataliegreet/', methods=['GET', 'POST'])
@@ -39,7 +39,7 @@ def nataliegreet():
         if len(name) != 0:  # input field has content
             return render_template("nataliegreet.html", name3=name)
     # starting and empty input default
-    return render_template("nataliegreet.html", name3="World")
+    return render_template("nataliegreet.html", name3="Natalie")
 
 
 @app.route('/main page/', methods=['GET', 'POST'])
@@ -62,10 +62,6 @@ def binary():
     # starting and empty input default
     return render_template("binary.html", name3="World")
 
-
-@app.route('/stub/')
-def stub():
-    return render_template("stub.html")
 
 @app.route('/concepts/')
 def concepts():
