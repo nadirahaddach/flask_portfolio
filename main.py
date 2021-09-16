@@ -82,6 +82,10 @@ def concepts():
 def play():
     return render_template("play.html")
 
+@app.route('/conceptsreal/')
+def conceptsreal():
+    return render_template("conceptsreal.html")
+
 # runs the application on the development server
 if __name__ == "__main__":
     app.run(debug=True)
