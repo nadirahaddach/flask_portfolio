@@ -74,10 +74,6 @@ def binary():
     return render_template("binary.html", name3="World")
 
 
-@app.route('/concepts/')
-def concepts():
-    return render_template("concepts.html")
-
 @app.route('/play/')
 def play():
     return render_template("play.html")

@@ -24,8 +24,6 @@ This HTML is setup as a fragment allowing it to be "included" by other HTML file
         <!-- stub is shown using the name of the route -->
         <li class="nav-item"><a class="nav-link" href="{{ url_for('mainpage') }}">About Us</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ url_for('play') }}">DNHS Sports Page</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('binary') }}">Binary Project</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('conceptsreal') }}">Mini-Labs</a></li>
 
         <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton1" type="button">
@@ -36,6 +34,13 @@ This HTML is setup as a fragment allowing it to be "included" by other HTML file
                 <a class="dropdown-item" href="{{ url_for('connorgreet') }}">Connor Wang</a>
                 <a class="dropdown-item" href="{{ url_for('nataliegreet') }}">Natalie Cohen</a>
                 <a class="dropdown-item" href="{{ url_for('paigegreet') }}">Paige McCartin</a>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton1" type="button">
+                Mini Labs
+            </a>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                <a class="dropdown-item" href="{{ url_for('conceptsreal') }}">Concepts</a>
+                <a class="dropdown-item" href="{{ url_for('binary') }}">Binary Project</a>
             </div>
         </li>
     </ul>
