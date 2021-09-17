@@ -78,9 +78,13 @@ def binary():
 def play():
     return render_template("play.html")
 
-@app.route('/conceptsreal/')
+@app.route('/concepts/')
 def conceptsreal():
-    return render_template("conceptsreal.html")
+    return render_template("concepts.html")
+
+@app.route('/prototype/')
+def prototype():
+    return render_template("prototype.html")
 
 # runs the application on the development server
 if __name__ == "__main__":
