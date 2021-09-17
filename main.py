@@ -65,13 +65,12 @@ def mainpage():
 
 @app.route('/binary/', methods=['GET', 'POST'])
 def binary():
-    # submit button has been pushed
     if request.form:
-        name = request.form.get("name")
-        if len(name) != 0:  # input field has content
-            return render_template("binary.html", name3=name)
+        bits = request.form.get("bits")
+        if len(bits) != 0:  # input field has content
+            return render_template("binary.html", bits=int(bits))
     # starting and empty input default
-    return render_template("binary.html", name3="World")
+    return render_template("binary.html", bits=8)
 
 
 @app.route('/play/')
