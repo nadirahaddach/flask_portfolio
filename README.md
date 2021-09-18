@@ -20,3 +20,4 @@
 #### Integrated Greet
 #### Made a Greet page for each member and made it a mini-lab page
 #### Made greet function on each persons page
+### Week 3
