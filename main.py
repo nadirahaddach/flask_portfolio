@@ -59,9 +59,9 @@ def mainpage():
     if request.form:
         name = request.form.get("name")
         if len(name) != 0:  # input field has content
-            return render_template("main page.html", name3=name)
+            return render_template("aboutus.html", name3=name)
     # starting and empty input default
-    return render_template("main page.html", name3="World")
+    return render_template("aboutus.html", name3="World")
 
 @app.route('/binary/', methods=['GET', 'POST'])
 def binary():
@@ -75,7 +75,7 @@ def binary():
 
 @app.route('/play/')
 def play():
-    return render_template("play.html")
+    return render_template("mainpage.html")
 
 @app.route('/concepts/')
 def conceptsreal():
