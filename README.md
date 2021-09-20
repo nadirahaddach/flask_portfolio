@@ -6,6 +6,7 @@
 3. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
 4. [Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-2)
 5. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/layouts/navbar.html)
+6. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-4)
 ## Contributors
 | Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
 |:-----|:----------------------|:-----:|:-----------:|:-------:|
