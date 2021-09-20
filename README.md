@@ -18,6 +18,7 @@
 ### Week 1
 #### Discussed theme of Project
 #### Began looking into code and how the project will look
+#### [Tech Talk 0](https://drive.google.com/file/d/1tBCiJCousqEsfmjx4w7Hqg-DnkviqKQ8/view)
 ### PBL 1,2 Week 2
 #### Integrated Greet
 #### Made a Greet page for each member and made it a mini-lab page
