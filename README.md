@@ -5,7 +5,7 @@
 2. Pair Share Journals [Nadira and Connor](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing), [Natalie and Paige](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing)
 3. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
 4. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#pbl-12-week-2)
-5. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio#sprint-34-week-3)
+5. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-3)
 6. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-4)
 ## Contributors
 | Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
@@ -29,8 +29,13 @@
 #### Made a Greet page for each member and made it a mini-lab page
 #### Made greet function on each persons page
 ### Sprint 3,4 Week 3
+#### Updated this README
 #### [Slideshow of work](https://docs.google.com/presentation/u/1/d/1SH-1WUK1O5zUQeE5RvXn43u9vL2SrhAG-BYu56saefk/edit?usp=drive_open&ouid=102460731047727587232)
-#### [Navbar Dropdown](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/layouts/navbar.html)
+| Project/page | Code | 
+|:-----|:----------------------|
+| Navbar Dropdown | [Navbar code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/layouts/navbar.html) |
+| Main Sports Page | [Main code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/play.html) |
+| About us Page| [About us code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/main%20page.html)
 #### Binary Math
 ### Sprint 3,4 Week 4
 #### [Tasks for the week](https://github.com/nadirahaddach/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Sprint+3%2C4+week+4%22)
