@@ -5,7 +5,7 @@
 2. Pair Share Journals [Nadira and Connor](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing), [Natalie and Paige](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing)
 3. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
 4. [Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-2)
-5. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/layouts/navbar.html)
+5. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio#sprint-34-week-3)
 6. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-4)
 ## Contributors
 | Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
