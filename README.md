@@ -20,6 +20,9 @@
 #### Began looking into code and how the project will look
 #### [Tech Talk 0](https://drive.google.com/file/d/1tBCiJCousqEsfmjx4w7Hqg-DnkviqKQ8/view)
 ### PBL 1,2 Week 2
+| Name | GitHub ID and Profile | 
+|:-----|:----------------------|
+| Nadira Haddach | [@nadirahaddach](https://github.com/nadirahaddach) | [Tasks](https://github.com/nadirahaddach/flask_portfolio/issues/created_by/nadirahaddach) |[Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1?card_filter_query=assignee%3Anadirahaddach) | [Commits](https://github.com/nadirahaddach/flask_portfolio/commits?author=nadirahaddach)
 #### Integrated Greet
 #### Made a Greet page for each member and made it a mini-lab page
 #### Made greet function on each persons page
