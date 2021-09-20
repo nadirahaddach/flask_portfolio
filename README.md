@@ -23,7 +23,7 @@
 #### Made a Greet page for each member and made it a mini-lab page
 #### Made greet function on each persons page
 ### Sprint 3,4 Week 3
-####[Tasks for the week](https://github.com/nadirahaddach/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Sprint+3%2C4+week+4%22)
+#### [Tasks for the week](https://github.com/nadirahaddach/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Sprint+3%2C4+week+4%22)
 #### [Slideshow of work](https://docs.google.com/presentation/u/1/d/1SH-1WUK1O5zUQeE5RvXn43u9vL2SrhAG-BYu56saefk/edit?usp=drive_open&ouid=102460731047727587232)
 #### [Navbar Dropdown](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/layouts/navbar.html)
 #### Binary Math
