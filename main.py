@@ -1,5 +1,6 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
+
 # create a Flask instance
 app = Flask(__name__)
 
@@ -8,6 +9,7 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     return render_template("index.html")
+
 
 @app.route('/greet/', methods=['GET', 'POST'])
 def greet():
@@ -63,6 +65,7 @@ def mainpage():
     # starting and empty input default
     return render_template("aboutus.html", name3="World")
 
+
 @app.route('/binary/', methods=['GET', 'POST'])
 def binary():
     if request.form:
@@ -77,9 +80,11 @@ def binary():
 def play():
     return render_template("mainpage.html")
 
+
 @app.route('/concepts/')
 def conceptsreal():
     return render_template("concepts.html")
+
 
 @app.route('/prototype/')
 def prototype():
@@ -88,6 +93,11 @@ def prototype():
 @app.route('/rgb/')
 def rgb():
     return render_template("rgb.html")
+
+@app.route('/nataliergb/')
+def nataliergb():
+    return render_template("nataliergb.html")
+
 
 # runs the application on the development server
 if __name__ == "__main__":
