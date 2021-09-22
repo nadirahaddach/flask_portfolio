@@ -1,7 +1,7 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
-from flask import Blueprint, render_template
-from algorithms.image import image_data
+from image import image_data
+
 # create a Flask instance
 app = Flask(__name__)
 
@@ -18,9 +18,9 @@ def greet():
     if request.form:
         name = request.form.get("name")
         if len(name) != 0:  # input field has content
-            return render_template("greet.html", name1=name)
+            return render_template("nadiragreet.html", name1=name)
     # starting and empty input default
-    return render_template("greet.html", name1="Nadira")
+    return render_template("nadiragreet.html", name1="Nadira")
 
 
 @app.route('/connorgreet/', methods=['GET', 'POST'])
@@ -92,14 +92,17 @@ def prototype():
     return render_template("prototype.html")
 
 
+@app.route('/connorrgb/')
+def connorrgb():
+    return render_template('connorrgb.html', images=image_data())
 
 @app.route('/nataliergb/')
 def nataliergb():
-    return render_template("nataliergb.html")
+    return render_template("nataliergb.html", images=image_data())
 
-@app.route('/rgb/')
-def rgb():
-    return render_template("rgb.html", images=image_data())
+@app.route('/nadirargb/')
+def nadirargb():
+    return render_template('nadirargb.html', images=image_data())
 
 
 # runs the application on the development server
