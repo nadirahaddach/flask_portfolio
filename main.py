@@ -100,6 +100,10 @@ def rgb():
 def nataliergb():
     return render_template("nataliergb.html")
 
+@app.route('/nadirargb/')
+def nadirargb():
+    return render_template('nadirargb.html')
+
 
 # runs the application on the development server
 if __name__ == "__main__":
