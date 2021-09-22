@@ -1,5 +1,6 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
+from image import image_data
 
 # create a Flask instance
 app = Flask(__name__)
@@ -93,7 +94,7 @@ def prototype():
 
 @app.route('/rgb/')
 def rgb():
-    return render_template('starter/rgb.html', images=image_data())
+    return render_template('rgb.html', images=image_data())
 
 @app.route('/nataliergb/')
 def nataliergb():
