@@ -1,7 +1,7 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
-from image import image_data
-
+from flask import Blueprint, render_template
+from algorithms.image import image_data
 # create a Flask instance
 app = Flask(__name__)
 
@@ -92,13 +92,14 @@ def prototype():
     return render_template("prototype.html")
 
 
-@app.route('/rgb/')
-def rgb():
-    return render_template('rgb.html')
 
 @app.route('/nataliergb/')
 def nataliergb():
     return render_template("nataliergb.html")
+
+@app.route('/rgb/')
+def rgb():
+    return render_template("rgb.html", images=image_data())
 
 
 # runs the application on the development server

@@ -62,7 +62,7 @@ def image_data(path="/static/assets/", img_list=None):  # path of static images 
 
 # run this as standalone tester to see data printed in terminal
 if __name__ == "__main__":
-    local_path = "../static/img/"
+    local_path = "/static/assets/"
     img_test = [
         {'source': "iconsdb.com", 'label': "Blue square", 'file': "blue-square-16.png"},
     ]
