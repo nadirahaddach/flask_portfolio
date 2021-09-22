@@ -94,15 +94,15 @@ def prototype():
 
 @app.route('/connorrgb/')
 def connorrgb():
-    return render_template('connorrgb.html')
+    return render_template('connorrgb.html', images=image_data())
 
 @app.route('/nataliergb/')
 def nataliergb():
-    return render_template("nataliergb.html")
+    return render_template("nataliergb.html", images=image_data())
 
 @app.route('/nadirargb/')
 def nadirargb():
-    return render_template('nadirargb.html')
+    return render_template('nadirargb.html', images=image_data())
 
 
 # runs the application on the development server
