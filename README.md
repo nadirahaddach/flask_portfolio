@@ -15,8 +15,15 @@
 | Natalie Cohen| [@nataliecohen](https://github.com/nataliecohen) | [Tasks](https://github.com/nadirahaddach/flask_portfolio/issues/created_by/nataliecohen) |[Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1?card_filter_query=assignee%3Anataliecohen) | [Commits](https://github.com/nadirahaddach/flask_portfolio/commits?author=nataliecohen)
 | Connor Wang| [@connorw72](https://github.com/connorw72) | [Tasks](https://github.com/nadirahaddach/flask_portfolio/issues/created_by/connorw72) |[Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1?card_filter_query=assignee%3Aconnorw72) | [Commits](https://github.com/nadirahaddach/flask_portfolio/commits?author=connorw72)
 | Paige McCartin| [@paigemccartin](https://github.com/paigemccartin) | [Tasks](https://github.com/nadirahaddach/flask_portfolio/issues/created_by/paigemccartin) |[Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1?card_filter_query=assignee%3Apaigemccartin) | [Commits](https://github.com/nadirahaddach/flask_portfolio/commits?author=paigemccartin)
-## Notes During Work
 ## Assignments
+| Week | Assignment | 
+|:-----|:----------------------|
+| Week 0 | - 
+| Week 1 | -
+| Week 2 | - 
+| Week 3| - 
+| Week 4| - 
+| Week 5| - 
 ### Week 1
 #### Discussed theme of Project
 #### Began looking into code and how the project will look
