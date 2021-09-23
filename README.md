@@ -52,6 +52,9 @@
 | Paige | 4.5/5
 | Connor | 4.5/5
 ### Sprint 5,6 week 5
+#### Unit 3.1 notes 
+#### Unit 3.2 notes
+#### RGB Mini-lab
 | Member | Grade | 
 |:-----|:----------------------|
 | Natalie | 4.5/5
