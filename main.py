@@ -96,9 +96,11 @@ def prototype():
 def connorrgb():
     return render_template('connorrgb.html', images=image_data())
 
+
 @app.route('/nataliergb/')
 def nataliergb():
     return render_template("nataliergb.html", images=image_data())
+
 
 @app.route('/nadirargb/')
 def nadirargb():
