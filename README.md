@@ -16,6 +16,7 @@
 | Connor Wang| [@connorw72](https://github.com/connorw72) | [Tasks](https://github.com/nadirahaddach/flask_portfolio/issues/created_by/connorw72) |[Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1?card_filter_query=assignee%3Aconnorw72) | [Commits](https://github.com/nadirahaddach/flask_portfolio/commits?author=connorw72)
 | Paige McCartin| [@paigemccartin](https://github.com/paigemccartin) | [Tasks](https://github.com/nadirahaddach/flask_portfolio/issues/created_by/paigemccartin) |[Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1?card_filter_query=assignee%3Apaigemccartin) | [Commits](https://github.com/nadirahaddach/flask_portfolio/commits?author=paigemccartin)
 ## Notes During Work
+## Assignments
 ### Week 1
 #### Discussed theme of Project
 #### Began looking into code and how the project will look
