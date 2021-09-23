@@ -3,10 +3,11 @@
 ## Table of Contents
 1. [GitHub repo Contributors](https://github.com/Rebecca-123/m223_team_lovelace#contributors)
 2. Pair Share Journals [Nadira and Connor](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing), [Natalie and Paige](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing)
-3. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
-4. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#pbl-12-week-2)
-5. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-3)
+5. [Sprint 5,6 week 5](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-5)
 6. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-4)
+8. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-3)
+9. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#pbl-12-week-2)
+10. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
 ## Contributors
 | Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
 |:-----|:----------------------|:-----:|:-----------:|:-------:|
@@ -37,7 +38,32 @@
 | Main Sports Page | [Main code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/play.html) |
 | About us Page| [About us code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/main%20page.html)
 #### Binary Math
+| Member | Grade | 
+|:-----|:----------------------|
+| Natalie | -
+| Nadira | -
+| Paige | 4.75/5
+| Connor | -
 ### Sprint 3,4 Week 4
 #### [Tasks for the week](https://github.com/nadirahaddach/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Sprint+3%2C4+week+4%22)
 #### Video showing Slimes Project
 #### [Binary Math Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/binary.html)
+##### ^ Make sure all hacks are included
+#### Groom Scrum Board
+#### Ensure Design asset for prototyping work
+| Member | Grade | 
+|:-----|:----------------------|
+| Natalie | 4.5/5
+| Nadira | 4.5/5
+| Paige | 4.5/5
+| Connor | 4.5/5
+### Sprint 5,6 week 5
+#### Unit 3.1 notes 
+#### Unit 3.2 notes
+#### RGB Mini-lab
+| Member | Grade | 
+|:-----|:----------------------|
+| Natalie | -
+| Nadira | -
+| Paige | -
+| Connor | -
