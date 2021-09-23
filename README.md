@@ -45,4 +45,16 @@
 ##### ^ Make sure all hacks are included
 #### Groom Scrum Board
 #### Ensure Design asset for prototyping work
+| Member | Grade | 
+|:-----|:----------------------|
+| Natalie | 4.5/5
+| Nadira | 4.5/5
+| Paige | 4.5/5
+| Connor | 4.5/5
 ### Sprint 5,6 week 5
+| Member | Grade | 
+|:-----|:----------------------|
+| Natalie | 4.5/5
+| Nadira | 4.5/5
+| Paige | 4.5/5
+| Connor | 4.5/5
