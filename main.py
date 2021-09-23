@@ -1,7 +1,7 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
 from image import image_data
-
+from images import image_data
 # create a Flask instance
 app = Flask(__name__)
 
@@ -105,21 +105,6 @@ def nataliergb():
 if __name__ == "__main__":
     app.run(debug=True)
 
-from flask import Blueprint, render_template
-from algorithm.image import image_data
-
-starter_bp = Blueprint('starter', Paige,
-                       url_prefix='/starter',
-                       template_folder='templates',
-                       static_folder='static',
-                       static_url_path='assets')
-
-
-@starter_bp.route('/binary/')
-def binary():
-    return render_template("starter/binary.html")
-
-
-@starter_bp.route('/rgb/')
-def rgb():
-    return render_template('starter/rgb.html', images=image_data())
+@app.route('/paigergb/')
+def paigergb():
+    return render_template("paigergb.html", images=image_data())
