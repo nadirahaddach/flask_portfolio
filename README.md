@@ -38,6 +38,12 @@
 | Main Sports Page | [Main code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/play.html) |
 | About us Page| [About us code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/main%20page.html)
 #### Binary Math
+| Member | Grade | 
+|:-----|:----------------------|
+| Natalie | -
+| Nadira | -
+| Paige | 4.75/5
+| Connor | -
 ### Sprint 3,4 Week 4
 #### [Tasks for the week](https://github.com/nadirahaddach/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Sprint+3%2C4+week+4%22)
 #### Video showing Slimes Project
@@ -57,7 +63,7 @@
 #### RGB Mini-lab
 | Member | Grade | 
 |:-----|:----------------------|
-| Natalie | 4.5/5
-| Nadira | 4.5/5
-| Paige | 4.5/5
-| Connor | 4.5/5
+| Natalie | -
+| Nadira | -
+| Paige | -
+| Connor | -
