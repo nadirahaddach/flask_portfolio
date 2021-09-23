@@ -1,7 +1,6 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
 from image import image_data
-from images import image_data
 # create a Flask instance
 app = Flask(__name__)
 
