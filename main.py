@@ -1,7 +1,7 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
 from image import image_data
-
+from images import image_data
 # create a Flask instance
 app = Flask(__name__)
 
@@ -110,3 +110,7 @@ def nadirargb():
 # runs the application on the development server
 if __name__ == "__main__":
     app.run(debug=True)
+
+@app.route('/paigergb/')
+def paigergb():
+    return render_template("paigergb.html", images=image_data())
