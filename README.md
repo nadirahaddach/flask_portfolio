@@ -41,6 +41,6 @@
 #### [Tasks for the week](https://github.com/nadirahaddach/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Sprint+3%2C4+week+4%22)
 #### Video showing Slimes Project
 #### [Binary Math Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/binary.html)
-##### Make sure all hacks are included
+##### ^ Make sure all hacks are included
 #### Groom Scrum Board
 #### Ensure Design asset for prototyping work
