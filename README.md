@@ -18,9 +18,9 @@
 ## Assignments
 | Week | Assignment | 
 |:-----|:----------------------|
-| Week 0 | - 
-| Week 1 | -
-| Week 2 | - 
+| Week 0 | -
+| Week 1 |[Tech Talk 0.0-0.4](https://drive.google.com/file/d/1tBCiJCousqEsfmjx4w7Hqg-DnkviqKQ8/view)
+| Week 2 |[Wireframe 1](https://docs.google.com/drawings/d/175h5JAaHBJmcnTXl0h0RhxGufUIU-gfSjisLq6eZO9c/edit)[Wireframe 2](https://docs.google.com/drawings/d/1_Niscp24Sh1WJ3ukS7Ne46y_o3OlN8S7Uhgil6LUsaA/edit)[Wireframe 3](https://docs.google.com/drawings/d/1kcmv-nnNN2mzE7Mn8pXmxEAG9O1rib65Tcu0DQj5Q68/edit)
 | Week 3| - 
 | Week 4| - 
 | Week 5| - 
