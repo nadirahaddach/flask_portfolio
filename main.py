@@ -106,10 +106,10 @@ def nadirargb():
     return render_template('nadirargb.html', images=image_data())
 
 
-# runs the application on the development server
-if __name__ == "__main__":
-    app.run(debug=True)
-
 @app.route('/paigergb/')
 def paigergb():
     return render_template("paigergb.html", images=image_data())
+
+# runs the application on the development server
+if __name__ == "__main__":
+    app.run(debug=True)
