@@ -64,7 +64,7 @@ def image_data(path="static/assets/", img_list=None):  # path of static images i
 if __name__ == "__main__":
     local_path = "/static/assets/"
     img_test = [
-        {'source': "iconsdb.com", 'label': "Blue square", 'file': "blue-square-16.png"},
+        {'source': "iconsdb.com", 'label': "Blue square", 'file': "drewlock.jpeg"},
     ]
     items = image_data(local_path, img_test)  # path of local run
     for row in items:
