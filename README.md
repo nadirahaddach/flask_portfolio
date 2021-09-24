@@ -15,7 +15,15 @@
 | Natalie Cohen| [@nataliecohen](https://github.com/nataliecohen) | [Tasks](https://github.com/nadirahaddach/flask_portfolio/issues/created_by/nataliecohen) |[Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1?card_filter_query=assignee%3Anataliecohen) | [Commits](https://github.com/nadirahaddach/flask_portfolio/commits?author=nataliecohen)
 | Connor Wang| [@connorw72](https://github.com/connorw72) | [Tasks](https://github.com/nadirahaddach/flask_portfolio/issues/created_by/connorw72) |[Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1?card_filter_query=assignee%3Aconnorw72) | [Commits](https://github.com/nadirahaddach/flask_portfolio/commits?author=connorw72)
 | Paige McCartin| [@paigemccartin](https://github.com/paigemccartin) | [Tasks](https://github.com/nadirahaddach/flask_portfolio/issues/created_by/paigemccartin) |[Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1?card_filter_query=assignee%3Apaigemccartin) | [Commits](https://github.com/nadirahaddach/flask_portfolio/commits?author=paigemccartin)
-## Notes During Work
+## Assignments
+| Week | Assignment | 
+|:-----|:----------------------|
+| Week 0 | -
+| Week 1 |[Tech Talk 0.0-0.4](https://drive.google.com/file/d/1tBCiJCousqEsfmjx4w7Hqg-DnkviqKQ8/view)
+| Week 2 |[Wireframe 1](https://docs.google.com/drawings/d/175h5JAaHBJmcnTXl0h0RhxGufUIU-gfSjisLq6eZO9c/edit) [Wireframe 2](https://docs.google.com/drawings/d/1_Niscp24Sh1WJ3ukS7Ne46y_o3OlN8S7Uhgil6LUsaA/edit) [Wireframe 3](https://docs.google.com/drawings/d/1kcmv-nnNN2mzE7Mn8pXmxEAG9O1rib65Tcu0DQj5Q68/edit)
+| Week 3|[Binary page](http://127.0.0.1:5000/binary/) 
+| Week 4| - 
+| Week 5|-
 ### Week 1
 #### Discussed theme of Project
 #### Began looking into code and how the project will look
