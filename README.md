@@ -67,17 +67,11 @@
 | Paige | 4.5/5
 | Connor | 4.5/5
 ### Sprint 5,6 week 5
-#### Unit 3.1 notes 
-#### Unit 3.2 notes
-#### Unit 3.1 & 3.2 quiz
-#### Natalie/Paige Journal
-#### Connor/Nadira Journal
-| Member | Grade | 
-|:-----|:----------------------|
-| Natalie | 3/3
-| Nadira | 3/3
-| Paige | 3/3
-| Connor | 3/3
+#### Journal Scores
+| Pair | Journal | Grade |
+|:-----|:----------------------|:-----|
+| Connor and Nadira | [Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit) - Notes start page 7 for this week| 3/3
+| Natalie and Paige | [Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit) - Notes start page 7 for this week| 3/3
 ### Sprint 5,6 week 6
 | Task | Tangible Link | 
 |:-----|:----------------------|
