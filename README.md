@@ -69,10 +69,9 @@
 ### Sprint 5,6 week 5
 #### Unit 3.1 notes 
 #### Unit 3.2 notes
-#### RGB Mini-lab
 #### Unit 3.1 & 3.2 quiz
 #### Natalie/Paige Journal
-#### onnor/Nadira Journal
+#### Connor/Nadira Journal
 | Member | Grade | 
 |:-----|:----------------------|
 | Natalie | 3/3
@@ -80,3 +79,10 @@
 | Paige | 3/3
 | Connor | 3/3
 ### Sprint 5,6 week 6
+| Task | Tangible Link | 
+|:-----|:----------------------|
+|GB Values with an Image, Frontend... how would you change to grey scale dynamically?  Look for Hack in rgb.html. | 
+| Nadira | 4.5/5
+| Paige | 4.5/5
+| Connor | 4.5/5
+
