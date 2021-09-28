@@ -71,9 +71,8 @@
 #### RGB Mini-lab
 | Member | Grade | 
 |:-----|:----------------------|
-| Natalie | -
-| Nadira | -
-| Paige | -
-| Connor | -
-### Spring 5,6 Week 6
-####
+| Natalie | 3/3
+| Nadira | 3/3
+| Paige | 3/3
+| Connor | 3/3
+### Sprint 5,6 week 6
