@@ -70,6 +70,9 @@
 #### Unit 3.1 notes 
 #### Unit 3.2 notes
 #### RGB Mini-lab
+#### Unit 3.1 & 3.2 quiz
+#### Natalie/Paige Journal
+#### onnor/Nadira Journal
 | Member | Grade | 
 |:-----|:----------------------|
 | Natalie | 3/3
