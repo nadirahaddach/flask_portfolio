@@ -85,6 +85,7 @@
 |RGB Values with an Image, Backend... how would you write a message on top of image (Links to an external site.) and transport it to the Web?  Look at Pillow Image write in Tester. | 
 | RGB Values with an Image, New Development.  explore and implement a new possibility in manipulating images (Links to an external site.). | 
 | RGB Values with an Image.  Make journal entries and do corrections in code.   Backend... image files are really big, this would make a Programmer consider being efficiency in programming.  What are the calculations?  Could the image.py function "def image_data" more efficient?  There is a science to writing efficient algorithms called Big O notation (Links to an external site.). Write image_data function to be more efficient according to Big O notation.  Basically, you are looking to remove a loop. | 
-| RGB Values with an Image, New Development.  explore and implement a new possibility in manipulating images (Links to an external site.). | 
+| Research/Study sheet/journal.  Make journal entries and cite examples from code.  what is base2 (Links to an external site.), base8, base16.  what is base64 (Links to an external site.)?   How is base64 different? what are some ideas from this research that you can use in your PBL project?  Add backlog items. | 
+|Documentation.   Make a document and cite examples from code describing your project layout.  A. Discuss layout of files (Links to an external site.) and organizing (Links to an external site.) B. Discuss location of static organization (Links to an external site.).  C. Discuss HTML template layout (Links to an external site.) and specifically what you are doing to manage <head> (Links to an external site.) and <body> |
 
 
