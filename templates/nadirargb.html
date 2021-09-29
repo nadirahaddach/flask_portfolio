@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 
-{% include "layouts/navbar.html" %}
+{% extends "layouts/base.html" %}
 
-{% block meta %}
+{% block head %}
     <script>
         // Hack: add java script function to toggle image from original to gray and back (toggle)
         //  document.getElementById("img<n>").src
-        //  document.getElementID("img_gray<n>").innerHTML
+        //  document.getElementID("img_gray<nf>").innerHTML
         //  help: https://www.geeksforgeeks.org/how-to-change-the-src-attribute-of-an-img-element-in-javascript-jquery/
     </script>
     <title>RGB starter</title>
 {% endblock %}
 
-{% block content %}
+{% block body %}
     <h1 class="text-center">RGB values within an Image</h1>
     <div class="container">
         <div class="row justify-content-md-center">
@@ -41,8 +41,24 @@
                                {{image.base64}}  original image
                                {{image.base64_GRAY}}  gray scale image
                             -->
+                            <script>
+                                function chngimg() {
+                                    var img = document.getElementById('nadirarbg').src;
+                                    if (img.indexOf('nadirargb')!=-1) {
+                                        document.getElementById('nadirargb').src  = '{{image.base64}}';
+                                    }
+                                    else {
+                                        document.getElementById('nadirargb').src = '{{image.base64_GRAY}}';
+                                    }
+                                }
+                            </script>
+
+                            <img id="imgplus" alt="" src="nadirargb.html" onmouseover="this.style.cursor='pointer'" onclick="chngimg()"   />
+                            <button type="button" id="clickme" onclick="changeImage({{image.base64}});">Color</button>
+                            <button type="button" id="clickme" onclick="changeImage({{image.base64_GRAY}});">Greyscale</button>
                             <p hidden id="img_orig{{loop.index}}">{{image.base64}}</p>
                             <p hidden id="img_gray{{loop.index}}">{{image.base64_GRAY}}</p>
+
                         </td>
                         <td>
                             <div class="overflow-auto" style="height: 256px">
