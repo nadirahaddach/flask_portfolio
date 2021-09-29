@@ -82,7 +82,7 @@
 ### Sprint 5,6 week 6
 | Task | Tangible Link | 
 |:-----|:----------------------|
-|RGB Values with an Image, Frontend... how would you change to grey scale dynamically?  Look for Hack in rgb.html. | [Code] (https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/nadirargb.html)
+|RGB Values with an Image, Frontend... how would you change to grey scale dynamically?  Look for Hack in rgb.html. | [Code]https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/nadirargb.html)
 |RGB Values with an Image, Backend... how would you write a message on top of image (Links to an external site.) and transport it to the Web?  Look at Pillow Image write in Tester. | [Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/image.py) 
 | RGB Values with an Image, New Development.  explore and implement a new possibility in manipulating images (Links to an external site.). | 
 | RGB Values with an Image.  Make journal entries and do corrections in code.   Backend... image files are really big, this would make a Programmer consider being efficiency in programming.  What are the calculations?  Could the image.py function "def image_data" more efficient?  There is a science to writing efficient algorithms called Big O notation (Links to an external site.). Write image_data function to be more efficient according to Big O notation.  Basically, you are looking to remove a loop. | 
