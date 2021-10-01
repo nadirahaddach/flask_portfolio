@@ -80,6 +80,10 @@
 | Connor and Nadira | [Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit) - Notes start page 7 for this week| 3/3
 | Natalie and Paige | [Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit) - Notes start page 7 for this week| 3/3
 ### Sprint 5,6 week 6
+|Journal Pair | 3.3 and 3.4 Entries|
+|:-----|:----------------------|
+|Nadira and Connor | [Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing) - 3.3 and 3.4 work for the week starts on page 13
+|Natalie and Paige | [Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing) - 3.3 and 3.4 work for the week starts on page 14
 | Task | Tangible Link | 
 |:-----|:----------------------|
 |RGB Values with an Image, Frontend... how would you change to grey scale dynamically?  Look for Hack in rgb.html. | [Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/nadirargb.html)
