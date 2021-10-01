@@ -80,10 +80,10 @@
 | Connor and Nadira | [Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit) - Notes start page 7 for this week| 3/3
 | Natalie and Paige | [Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit) - Notes start page 7 for this week| 3/3
 ### Sprint 5,6 week 6
-|Journal Pair | 3.3 and 3.4 Entries|
-|:-----|:----------------------|
-|Nadira and Connor | [Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing) - 3.3 and 3.4 work for the week starts on page 13
-|Natalie and Paige | [Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing) - 3.3 and 3.4 work for the week starts on page 14
+|Journal Pair | 3.3 and 3.4 Entries| Grade |
+|:-----|:----------------------| :------|
+|Nadira and Connor - Unit 3.3.   Follow instructions and guidance from OO's.  Complete online quiz and journal corrections.  OO and TO to Review, Unit 3.4.   Follow instructions and guidance from OO's.  Complete online quiz and journal corrections.  OO and TO to Review | [Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing) - 3.3 and 3.4 work for the week starts on page 13
+|Natalie and Paige - Unit 3.3.   Follow instructions and guidance from OO's.  Complete online quiz and journal corrections.  OO and TO to Review, Unit 3.4.   Follow instructions and guidance from OO's.  Complete online quiz and journal corrections.  OO and TO to Review | [Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing) - 3.3 and 3.4 work for the week starts on page 14
 
 | Task | Tangible Link | 
 |:-----|:----------------------|
