@@ -5,11 +5,11 @@
 {% block meta %}
     <script>
     function changeImage() {
-        if (document.getElementById("img1")) {
+        if (document.getElementById("img1").src == document.getElementById('img_orig1').innerHTML) {
             document.getElementById('img1').src = document.getElementById('img_gray1').innerHTML;
         }
-        else (document.getElementById("img_gray1"));{
-            document.getElementById('img_gray1').src = document.getElementById('img1').innerHTML;
+        else {
+            document.getElementById('img1').src = document.getElementById('img_orig1').innerHTML;
         }
     }
         // Hack: add java script function to toggle image from original to gray and back (toggle)
@@ -50,7 +50,7 @@
                                {image.base64_GRAY}}  gray scale image
                             -->
                             <div>
-                                <button type="button" id=myImage onclick="changeImage()">Greyscale</button>
+                                <button type="button" id=myImage onclick="changeImage()">Color/Greyscale</button>
                             </div>
 
                             <p hidden id="img_orig{{loop.index}}">{{image.base64}}</p>

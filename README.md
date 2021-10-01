@@ -80,13 +80,18 @@
 | Connor and Nadira | [Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit) - Notes start page 7 for this week| 3/3
 | Natalie and Paige | [Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit) - Notes start page 7 for this week| 3/3
 ### Sprint 5,6 week 6
+|Journal Pair | 3.3 and 3.4 Entries| Grade |
+|:-----|:----------------------| :------|
+|Nadira and Connor - Unit 3.3.   Follow instructions and guidance from OO's.  Complete online quiz and journal corrections.  OO and TO to Review, Unit 3.4.   Follow instructions and guidance from OO's.  Complete online quiz and journal corrections.  OO and TO to Review | [Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing) - 3.3 and 3.4 work for the week starts on page 13
+|Natalie and Paige - Unit 3.3.   Follow instructions and guidance from OO's.  Complete online quiz and journal corrections.  OO and TO to Review, Unit 3.4.   Follow instructions and guidance from OO's.  Complete online quiz and journal corrections.  OO and TO to Review | [Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing) - 3.3 and 3.4 work for the week starts on page 14
+
 | Task | Tangible Link | 
 |:-----|:----------------------|
 |RGB Values with an Image, Frontend... how would you change to grey scale dynamically?  Look for Hack in rgb.html. | [Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/nadirargb.html)
 |RGB Values with an Image, Backend... how would you write a message on top of image (Links to an external site.) and transport it to the Web?  Look at Pillow Image write in Tester. | [Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/image.py) 
 | RGB Values with an Image, New Development.  explore and implement a new possibility in manipulating images (Links to an external site.). | 
 | RGB Values with an Image.  Make journal entries and do corrections in code.   Backend... image files are really big, this would make a Programmer consider being efficiency in programming.  What are the calculations?  Could the image.py function "def image_data" more efficient?  There is a science to writing efficient algorithms called Big O notation (Links to an external site.). Write image_data function to be more efficient according to Big O notation.  Basically, you are looking to remove a loop. | 
-| Research/Study sheet/journal.  Make journal entries and cite examples from code.  what is base2 (Links to an external site.), base8, base16.  what is base64 (Links to an external site.)?   How is base64 different? what are some ideas from this research that you can use in your PBL project?  Add backlog items. | 
+| Research/Study sheet/journal.  Make journal entries and cite examples from code.  what is base2 (Links to an external site.), base8, base16.  what is base64 (Links to an external site.)?   How is base64 different? what are some ideas from this research that you can use in your PBL project?  Add backlog items. | [Paige/Natalie Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit) [Connor/Nadira Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit)
 |Documentation.   Make a document and cite examples from code describing your project layout.  A. Discuss layout of files (Links to an external site.) and organizing (Links to an external site.) B. Discuss location of static organization (Links to an external site.).  C. Discuss HTML template layout (Links to an external site.) and specifically what you are doing to manage <head> (Links to an external site.) and <body> |
 
 
