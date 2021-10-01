@@ -26,7 +26,7 @@ def image_data(path=Path("static/img/"), img_list=None):  # path of static image
 def image_data(path=Path("static/assets/"), img_list=None):  # path of static images is defaulted
     if img_list is None:  # color_dict is defined with defaults
         img_list = [
-            {'source': "Peter Carolin", 'label': "Lassen Volcano", 'file': "lassen-volcano-256.jpeg"},
+            {'source': "Peter Carolin", 'label': "Lassen Volcano", 'file': "lassen-volcano-256.jpg"},
         ]
     # gather analysis data and meta data for each image, adding attributes to each row in table
     for img_dict in img_list:
@@ -36,6 +36,10 @@ def image_data(path=Path("static/assets/"), img_list=None):  # path of static im
         img_reference = Image.open(file)  # PIL
         d1 = ImageDraw.Draw(img_reference)
         d1.text((50, 56), "Paige was here!", fill=(255, 0, 0))
+        img_reference.save(file)
+        #Show rotated Image
+        img_reference = img_reference.rotate(45)
+        img_reference.save(file)
         img_data = img_reference.getdata()  # Reference https://www.geeksforgeeks.org/python-pil-image-getdata/
         img_dict['format'] = img_reference.format
         img_dict['mode'] = img_reference.mode
