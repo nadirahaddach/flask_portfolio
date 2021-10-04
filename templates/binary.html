@@ -121,10 +121,7 @@
         <label for="bits">How many bits?</label>
         <input name="bits" id="bits">
         <input type="submit" value="Go">
-        <input type="submit" name="picture_change" value="Drew Lock">
-        <input type="submit" name="picture_change" value="Light Bulbs"
     </form>
-
 
     <div class="container">
         <div class="row justify-content-md-center">
@@ -132,6 +129,7 @@
             <div class="col-8">
                 <table class="table">
                     <tr id="table">
+                        <th>Shift Left</th>
                         <th>Plus</th>
                         <th>Binary</th>
                         <th>Octal</th>
@@ -140,8 +138,10 @@
                         <!-- Hack: display ASCII label for printable character(s)  -->
                         <th>ASCII</th>
                         <th>Minus</th>
+                        <th>Shift Right</th>
                     </tr>
                     <tr>
+                        <td>HI LOL</td>
                         <td><button type="button" id="add1" onclick="add(1)">+1</button></td>
                         <td id="binary">00000000</td>
                         <td id="octal">0</td>
@@ -150,6 +150,7 @@
                         <!-- Hack: display ASCII printable character(s)  -->
                         <td id="ascii">0</td>
                         <td><button type="button" id="sub1" onclick="add(-1)">-1</button></td>
+                        <td>HEY LOL</td>
 
                     </tr>
                 </table>
@@ -174,7 +175,7 @@
 
         </div>
     </div>
-    <body style="background-color:dodgerblue;">
+    <body style="background-color:lavender;">
 {% endblock %}
 {% block background %}
 {% endblock %}
