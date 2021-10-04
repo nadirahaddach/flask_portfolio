@@ -3,12 +3,13 @@
 ## Table of Contents
 1. [GitHub repo Contributors](https://github.com/Rebecca-123/m223_team_lovelace#contributors)
 2. Pair Share Journals [Nadira and Connor](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing), [Natalie and Paige](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing)
-5. [Sprint 5,6 week 6](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-6)
-6. [Sprint 5,6 week 5](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-5)
-7. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-4)
-8. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-3)
-9. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#pbl-12-week-2)
-10. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
+3. [Spring 7,8 week 7](
+4. [Sprint 5,6 week 6](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-6)
+5. [Sprint 5,6 week 5](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-5)
+6. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-4)
+7. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-3)
+8. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#pbl-12-week-2)
+9. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
 ## Contributors
 | Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
 |:-----|:----------------------|:-----:|:-----------:|:-------:|
@@ -93,5 +94,10 @@
 | RGB Values with an Image.  Make journal entries and do corrections in code.   Backend... image files are really big, this would make a Programmer consider being efficiency in programming.  What are the calculations?  Could the image.py function "def image_data" more efficient?  There is a science to writing efficient algorithms called Big O notation (Links to an external site.). Write image_data function to be more efficient according to Big O notation.  Basically, you are looking to remove a loop. | [Loop code](https://github.com/nadirahaddach/flask_portfolio/blob/main/image.py)
 | Research/Study sheet/journal.  Make journal entries and cite examples from code.  what is base2 (Links to an external site.), base8, base16.  what is base64 (Links to an external site.)?   How is base64 different? what are some ideas from this research that you can use in your PBL project?  Add backlog items. | [Paige/Natalie Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit) [Connor/Nadira Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit)
 |Documentation.   Make a document and cite examples from code describing your project layout.  A. Discuss layout of files (Links to an external site.) and organizing (Links to an external site.) B. Discuss location of static organization (Links to an external site.).  C. Discuss HTML template layout (Links to an external site.) and specifically what you are doing to manage <head> (Links to an external site.) and <body> |[Documentation](https://docs.google.com/document/d/1xcGN7Try65niwLUzUI2TzGsj4JKYlrH_H_N_BWV4Mzs/edit?usp=sharing)
+### Sprint 7,8 Week 7
+| Member Assigned | Task | Tangible Link |
+|:----|:-------------------|:----|
+|name | Multiply and Divide by 2 (Shift).  In this example, make the Bits change positions.  Start 2^0 to 2^15.  If you multiply by 2 then 2^0 bit becomes 2^1, 2^1 to 2^2.  If you divide 2^15 becomes 2^14. | l
+ 
 
 
