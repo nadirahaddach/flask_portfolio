@@ -1,6 +1,9 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
-from image import image_data
+from algorithms.image import image_data
+from pathlib import Path
+
+
 # create a Flask instance
 app = Flask(__name__)
 
@@ -93,12 +96,18 @@ def prototype():
 
 @app.route('/nataliergb/')
 def nataliergb():
-    return render_template("nataliergb.html", images=image_data())
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template("nataliergb.html", images=image_data(path))
 
 
 @app.route('/nadirargb/')
 def nadirargb():
-    return render_template('nadirargb.html', images=image_data())
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template('nadirargb.html', images=image_data(path))
+
+@app.route('/logicgates/')
+def logicgates():
+    return render_template("logicgates.html.html")
 
 
 # runs the application on the development server
