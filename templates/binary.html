@@ -47,7 +47,27 @@
              below ASCII for more ideas of where to make changes
              */
             document.getElementById('ascii').innerHTML = parseInt(binary, 2).toString(10);
+
+            ucode= String.fromCharCode(parseInt(binary,2));
+
+            document.getElementById('ascii').innerHTML = ucode;
+
+            if ( parseInt(binary, 2)<33)
+            {
+                document.getElementById('ascii').innerHTML = "NPC";
+                //NPC - non-printable characters so blank
+            }
+            if ( parseInt(binary, 2)>127)
+            {
+                document.getElementById('hascii').innerHTML = "ASCII/UNICODE";
+
+            }
+            else {
+                document.getElementById('hascii').innerHTML = "ASCII";
+
+            }
         }
+
 
 
         // algorithm to convert decimal to base using division and remainder
