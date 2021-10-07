@@ -107,7 +107,11 @@ def nadirargb():
 
 @app.route('/logicgates/')
 def logicgates():
-    return render_template("logicgates.html.html")
+    return render_template("logicgates.html")
+
+@app.route('/colorcodes/')
+def colorcodes():
+    return render_template("colorcode.htmlhtml")
 
 
 # runs the application on the development server
