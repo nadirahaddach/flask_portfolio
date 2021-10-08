@@ -98,6 +98,7 @@
 | Task | Tangible Link | 
 |:-----|:----------------------|
 |2 minute video reviewing tangibles - each member talks 30 seconds over their part | LINK |
+
 | Member Assigned | Task | Tangible Link |
 |:----|:-------------------|:----|
 |Nadira & Connor | Multiply and Divide by 2 (Shift).  In this example, make the Bits change positions.  Start 2^0 to 2^15.  If you multiply by 2 then 2^0 bit becomes 2^1, 2^1 to 2^2.  If you divide 2^15 becomes 2^14. | l
