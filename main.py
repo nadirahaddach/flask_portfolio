@@ -104,6 +104,10 @@ def nadirargb():
 def logicgates():
     return render_template('logicgates.html', images=image_data())
 
+@app.route('/colorcodes/')
+def colorcodes():
+    return render_template('colorcodes.html', images=image_data())
+
 
 
 # runs the application on the development server
