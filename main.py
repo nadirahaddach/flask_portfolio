@@ -1,7 +1,7 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
-from image import image_data
-# create a Flask instance
+from algorithms.image import image_data
+
 app = Flask(__name__)
 
 
@@ -99,6 +99,15 @@ def nataliergb():
 @app.route('/nadirargb/')
 def nadirargb():
     return render_template('nadirargb.html', images=image_data())
+
+@app.route('/logicgates/')
+def logicgates():
+    return render_template('logicgates.html', images=image_data())
+
+@app.route('/colorcodes/')
+def colorcodes():
+    return render_template('colorcodes.html', images=image_data())
+
 
 
 # runs the application on the development server
