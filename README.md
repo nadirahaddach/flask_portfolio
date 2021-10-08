@@ -95,9 +95,12 @@
 | Research/Study sheet/journal.  Make journal entries and cite examples from code.  what is base2 (Links to an external site.), base8, base16.  what is base64 (Links to an external site.)?   How is base64 different? what are some ideas from this research that you can use in your PBL project?  Add backlog items. | [Paige/Natalie Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit) [Connor/Nadira Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit)
 |Documentation.   Make a document and cite examples from code describing your project layout.  A. Discuss layout of files (Links to an external site.) and organizing (Links to an external site.) B. Discuss location of static organization (Links to an external site.).  C. Discuss HTML template layout (Links to an external site.) and specifically what you are doing to manage <head> (Links to an external site.) and <body> |[Documentation](https://docs.google.com/document/d/1xcGN7Try65niwLUzUI2TzGsj4JKYlrH_H_N_BWV4Mzs/edit?usp=sharing)
 ### Sprint 7,8 Week 7
+| Task | Tangible Link | 
+|:-----|:----------------------|
+|2 minute video reviewing tangibles - each member talks 30 seconds over their part | LINK |
 | Member Assigned | Task | Tangible Link |
 |:----|:-------------------|:----|
-|Natalie & Connor | Multiply and Divide by 2 (Shift).  In this example, make the Bits change positions.  Start 2^0 to 2^15.  If you multiply by 2 then 2^0 bit becomes 2^1, 2^1 to 2^2.  If you divide 2^15 becomes 2^14. | l
+|Nadira & Connor | Multiply and Divide by 2 (Shift).  In this example, make the Bits change positions.  Start 2^0 to 2^15.  If you multiply by 2 then 2^0 bit becomes 2^1, 2^1 to 2^2.  If you divide 2^15 becomes 2^14. | l
 |Natalie | Extend/Switch ASCII  to Unicode.   Use representation of U-0000 to U-FFFF for your bits.  The extension of ASCII to Unicode mode allows you to show even more Characters and Character ranges.  Look at Unicode on Wikipedia (Links to an external site.). | l
 |Nadira | Color Codes.  Display three rows of 8 bits.  Allow for code to be 0 to 255, show color for RGB.  Also, show color for R,G,B independently.  This may require a different HTML layout. | l
 |Paige | Unsigned Addition, Subtraction (Default).  Whole Numbers. Max number move from 255 to 65535.  Essentially 8 bits to 16 bits.  16 bits is often called a "Short Integer". | l
