@@ -243,32 +243,6 @@
                             <td><input type='text' id='digit{{i}}' Value="0" size="1" readonly></td>
                         {% endfor %}
                     </tr>
-
-                    <tr>
-                        {% for j in range(BITS) %}
-                            <td><img class="img-responsive py-3" id="bulb{{j}}+8" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
-                                <button type="button" id="butt{{j}}+8" onclick="toggleBit('{{j}}+8')">{{ msgTurnOn }}</button>
-                            </td>
-                        {% endfor %}
-                    </tr>
-                    <tr>
-                        {% for j in range(BITS) %}
-                            <td><input type='text' id='digit{{j}}+8' Value="0" size="1" readonly></td>
-                        {% endfor %}
-                    </tr>
-
-                    <tr>
-                        {% for k in range(BITS) %}
-                            <td><img class="img-responsive py-3" id="bulb{{k}}+16" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
-                                <button type="button" id="butt{{k}}+16" onclick="toggleBit('{{k}}+16')">{{ msgTurnOn }}</button>
-                            </td>
-                        {% endfor %}
-                    </tr>
-                    <tr>
-                        {% for k in range(BITS) %}
-                            <td><input type='text' id='digit{{k}}+16' Value="0" size="1" readonly></td>
-                        {% endfor %}
-                    </tr>
                 </table>
             </div>
 
