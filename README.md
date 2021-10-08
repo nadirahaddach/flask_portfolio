@@ -97,7 +97,7 @@
 ### Sprint 7,8 Week 7
 | Task | Tangible Link | 
 |:-----|:----------------------|
-|2 minute video reviewing tangibles - each member talks 30 seconds over their part | LINK |
+|2 minute video reviewing tangibles - each member talks 30 seconds over their part. | LINK |
 
 | Member Assigned | Task | Tangible Link |
 |:----|:-------------------|:----|
