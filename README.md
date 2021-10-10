@@ -98,6 +98,8 @@
 | Task | Tangible Link | 
 |:-----|:----------------------|
 |2 minute video reviewing tangibles - each member talks 30 seconds over their part. | LINK |
+|3.5 and 3.6 Notes and Quizzes | [Nadira and Connor Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing) |
+|3.5 and 3.6 Notes and Quizzes | [Natalie and Paige Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing) |
 
 | Member Assigned | Task | Tangible Link |
 |:----|:-------------------|:----|
