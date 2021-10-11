@@ -108,7 +108,16 @@
 |Nadira | Color Codes.  Display three rows of 8 bits.  Allow for code to be 0 to 255, show color for RGB.  Also, show color for R,G,B independently.  This may require a different HTML layout. | [Color Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/colorcodes.html)
 |Paige | Unsigned Addition, Subtraction (Default).  Whole Numbers. Max number move from 255 to 65535.  Essentially 8 bits to 16 bits.  16 bits is often called a "Short Integer". | [Binary Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/binary.html)
 |Natalie | Logic Gates.   CB requires an understanding of Expressions.  These are routed in Logic Gates (as language is routed in Latin). Consider an entirely different presentation area and idea.  In this example, you may have two inputs (a,b) and see how changing those inputs changes logic gate outputs (c).  This will likely require a different HTML. | [Logic Gates Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/logicgates.html)
-|Connor | Signed Addition, Subtraction (Selection).  Integer Numbers.  Subtraction (8th bit is a Sign, max number is  +127 and negative -128, overflow now produces negative number.  If sign bit is set the calculation is 128-bits. | [
+|Connor | Signed Addition, Subtraction (Selection).  Integer Numbers.  Subtraction (8th bit is a Sign, max number is  +127 and negative -128, overflow now produces negative number.  If sign bit is set the calculation is 128-bits. | [ |
+### Sprint 7,8 Week 8
+| Task | Tangible Link |
+|:----|:-----------------|
+| Scrum Master reviews on Wednesday. Present plans, design, features/issues and project ideas (focus should be README and Issues, but reviews can be assisted by Documents or Slides being prepared for Monday presentation. | LOL |
+| Part of 5 minute presentation. Presenting project/ideas and technical highlights, Time Box of Feature/Issues accomplishment in README.| LOL |
+| Part of 5 minute presentation.  Highlight 2 or 3 technical features, including code.  Mention anything that shows incorporation of mini lab technicals in project.  Be passionate about and technical WOW. | LOL |
+
+ 
+ 
  
 
 
