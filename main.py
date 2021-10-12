@@ -1,6 +1,7 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
 from algorithms.image import image_data
+from pathlib import Path
 
 app = Flask(__name__)
 
@@ -90,6 +91,9 @@ def conceptsreal():
 def prototype():
     return render_template("prototype.html")
 
+@app.route('/unsigned/')
+def unsigned():
+    return render_template("unsigned.html")
 
 @app.route('/nataliergb/')
 def nataliergb():
@@ -102,11 +106,13 @@ def nadirargb():
 
 @app.route('/logicgates/')
 def logicgates():
-    return render_template('logicgates.html', images=image_data())
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template('logicgates.html', images=image_data(path))
 
 @app.route('/colorcodes/')
 def colorcodes():
-    return render_template('colorcodes.html', images=image_data())
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template('colorcodes.html', images=image_data(path))
 
 
 
