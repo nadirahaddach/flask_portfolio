@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-{% extends "layouts/base.html" %}
+{% include "layouts/navbar.html" %}
 
 
 
@@ -62,8 +62,6 @@
             for (let i = 0; conversion.length < BITS; i++) {
                 conversion = "0" + conversion;
             }
-        }
-        return conversion;
         }
 
         // toggle selected bit and recalculate
