@@ -4,11 +4,12 @@
 {#{% set BITS = 8 %}#}
 {% set binNum1 = 0 %}
 
-{% set binNum2 = 0 %}
+{% set binNUm2 = 0 %}
 
 {% set MAX = ((2 ** BITS) - 1) %}
 
 {% set imgBulbOn = "/static/assets/bulb_on.gif" %}
+
 {% set imgBulbOff = "/static/assets/bulb_off.png" %}
 {% set msgTurnOn = "Turn On" %}
 {% set msgTurnOff = "Turn Off" %}
@@ -163,26 +164,22 @@
                 }
             }
         }
-        function addBins(n1,n2,n3,n4){
+        function addBins(n1,n2){
             //Can combone all these line into one
             bin1 = getBits(n1);
-            bin2 = -getBits(n2);
-            bin3 = getBits(0-n3);
-            bin4 = getBits(0-n4);
+            bin2 = getBits(n2);
             decSum = parseInt(bin1, 2)+parseInt(bin2, 2);
             binSum = Number(decSum).toString(2);
             binSum = binSum.padStart(8, "0");
-            decSum2 = parseInt(bin3, 2)+parseInt(bin4, 2);
-            binSum2 = Number(decSum).toString(2);
-            binSum2 = binSum.padStart(8, "0");
             for(let i = 0; i < BITS; i++) {
                 document.getElementById('digit3' + i).value = binSum.substr(i, 1);
             }
             document.getElementById('decVal1').innerHTML = "Decimal Value 1: " +   parseInt(bin1, 2);
             document.getElementById('decVal2').innerHTML = "Decimal Value 2: " +   parseInt(bin2, 2);
             document.getElementById('binVal').innerHTML = "Binary Sum : " +   binSum;
-            document.getElementById('inverseBinVal').innerHTML = "Inverse Binary Sum : " +   binSum2;
         }
+
+
     </script>
 {% endblock %}
 
@@ -270,9 +267,7 @@
                         <td><button type="button" id="add" onclick="addBins(1,2)" > ADD </button></td>
                         <td id="decVal1"> Decimal 1: 0</td>
                         <td id="decVal2"> Decimal 2: 0 </td>
-                        <td id="decVal3"> Decimal 3: 0</td>
                         <td id="binVal"> Binary Sum: </td>
-                        <td id="inverseBinVal"> Inverse Binary: </td>
 
                     </tr>
                     <tr>

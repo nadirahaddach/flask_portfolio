@@ -3,13 +3,14 @@
 ## Table of Contents
 1. [GitHub repo Contributors](https://github.com/Rebecca-123/m223_team_lovelace#contributors)
 2. Pair Share Journals [Nadira and Connor](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing), [Natalie and Paige](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing)
-3. [Spring 7,8 week 7](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-78-week-7)
-4. [Sprint 5,6 week 6](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-6)
-5. [Sprint 5,6 week 5](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-5)
-6. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-4)
-7. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-3)
-8. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#pbl-12-week-2)
-9. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
+3. [Sprint 7,8 week 8](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-78-week-8)
+4. [Sprint 7,8 week 7](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-78-week-7)
+5. [Sprint 5,6 week 6](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-6)
+6. [Sprint 5,6 week 5](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-5)
+7. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-4)
+8. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-3)
+9. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#pbl-12-week-2)
+10. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
 ## Contributors
 | Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
 |:-----|:----------------------|:-----:|:-----------:|:-------:|
@@ -97,16 +98,27 @@
 ### Sprint 7,8 Week 7
 | Task | Tangible Link | 
 |:-----|:----------------------|
-|2 minute video reviewing tangibles - each member talks 30 seconds over their part. | LINK |
+|2 minute video reviewing tangibles - each member talks 30 seconds over their part. | [Video](https://drive.google.com/file/d/1UDbYXWU77r46wyogcoXMtltmKypF2LXh/view?usp=sharing) |
+|3.5 and 3.6 Notes and Quizzes | [Nadira and Connor Journal](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing) |
+|3.5 and 3.6 Notes and Quizzes | [Natalie and Paige Journal](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing) |
 
 | Member Assigned | Task | Tangible Link |
 |:----|:-------------------|:----|
-|Nadira & Connor | Multiply and Divide by 2 (Shift).  In this example, make the Bits change positions.  Start 2^0 to 2^15.  If you multiply by 2 then 2^0 bit becomes 2^1, 2^1 to 2^2.  If you divide 2^15 becomes 2^14. | l
-|Natalie | Extend/Switch ASCII  to Unicode.   Use representation of U-0000 to U-FFFF for your bits.  The extension of ASCII to Unicode mode allows you to show even more Characters and Character ranges.  Look at Unicode on Wikipedia (Links to an external site.). | l
-|Nadira | Color Codes.  Display three rows of 8 bits.  Allow for code to be 0 to 255, show color for RGB.  Also, show color for R,G,B independently.  This may require a different HTML layout. | l
-|Paige | Unsigned Addition, Subtraction (Default).  Whole Numbers. Max number move from 255 to 65535.  Essentially 8 bits to 16 bits.  16 bits is often called a "Short Integer". | l
-|Natalie | Logic Gates.   CB requires an understanding of Expressions.  These are routed in Logic Gates (as language is routed in Latin). Consider an entirely different presentation area and idea.  In this example, you may have two inputs (a,b) and see how changing those inputs changes logic gate outputs (c).  This will likely require a different HTML. | l
-|Connor | Signed Addition, Subtraction (Selection).  Integer Numbers.  Subtraction (8th bit is a Sign, max number is  +127 and negative -128, overflow now produces negative number.  If sign bit is set the calculation is 128-bits. | l
+|Nadira & Connor | Multiply and Divide by 2 (Shift).  In this example, make the Bits change positions.  Start 2^0 to 2^15.  If you multiply by 2 then 2^0 bit becomes 2^1, 2^1 to 2^2.  If you divide 2^15 becomes 2^14. | [Binary Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/binary.html)
+|Natalie | Extend/Switch ASCII  to Unicode.   Use representation of U-0000 to U-FFFF for your bits.  The extension of ASCII to Unicode mode allows you to show even more Characters and Character ranges.  Look at Unicode on Wikipedia (Links to an external site.). | [Binary Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/binary.html)
+|Nadira | Color Codes.  Display three rows of 8 bits.  Allow for code to be 0 to 255, show color for RGB.  Also, show color for R,G,B independently.  This may require a different HTML layout. | [Color Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/colorcodes.html)
+|Paige | Unsigned Addition, Subtraction (Default).  Whole Numbers. Max number move from 255 to 65535.  Essentially 8 bits to 16 bits.  16 bits is often called a "Short Integer". | [Binary Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/unsigned.html)
+|Natalie | Logic Gates.   CB requires an understanding of Expressions.  These are routed in Logic Gates (as language is routed in Latin). Consider an entirely different presentation area and idea.  In this example, you may have two inputs (a,b) and see how changing those inputs changes logic gate outputs (c).  This will likely require a different HTML. | [Logic Gates Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/logicgates.html)
+|Connor | Signed Addition, Subtraction (Selection).  Integer Numbers.  Subtraction (8th bit is a Sign, max number is  +127 and negative -128, overflow now produces negative number.  If sign bit is set the calculation is 128-bits. | [Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/binary-nat.html) |
+### Sprint 7,8 Week 8
+| Task | Tangible Link |
+|:----|:-----------------|
+| Scrum Master reviews on Wednesday. Present plans, design, features/issues and project ideas (focus should be README and Issues, but reviews can be assisted by Documents or Slides being prepared for Monday presentation. | / |
+| Part of 5 minute presentation. Presenting project/ideas and technical highlights, Time Box of Feature/Issues accomplishment in README.| / |
+| Part of 5 minute presentation.  Highlight 2 or 3 technical features, including code.  Mention anything that shows incorporation of mini lab technicals in project.  Be passionate about and technical WOW. | / |
+#### Introduction to APIS 
+ 
+ 
  
 
 
