@@ -90,7 +90,6 @@ def conceptsreal():
 def prototype():
     return render_template("prototype.html")
 
-
 @app.route('/nataliergb/')
 def nataliergb():
     return render_template("nataliergb.html", images=image_data())
@@ -107,6 +106,7 @@ def logicgates():
 @app.route('/colorcodes/')
 def colorcodes():
     return render_template('colorcodes.html', images=image_data())
+
 
 
 
