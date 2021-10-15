@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+{% include "layouts/navbar.html" %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Trimester 1 Sports Information</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Gill Sans, sans-serif;
+            margin: 0;
+        }
+
+        .picture {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            margin: 8px;
+        }
+
+        .tri1-welcome {
+            padding: 30px;
+            text-align: center;
+            background-color:forestgreen;
+            color: white;
+        }
+
+        .row {
+            padding: 25px;
+            text-align: left;
+            background-color:navy;
+            color:white;
+        }
+
+        .text {
+            font-size: 20px;
+            color:black;
+        }
+
+        .extra-info {
+            padding: 20px;
+            text-align:center;
+            background-color:darkgoldenrod;
+            color:black;
+        }
+
+        .button {
+            border: none;
+            outline: 0;
+            display: inline-block;
+            padding: 8px;
+            color: white;
+            background-color:forestgreen;
+            text-align: center;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        .button:hover {
+            background-color:lightgreen;
+        }
+
+        @media screen and (max-width: 650px) {
+            .column {
+                width: 100%;
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="tri1-welcome">
+    <h1>Learn about the Trimester 1 Sports </h1>
+    <p>Read up about the sports, and learn about how they fare at Del Norte High School!</p>
+</div>
+
+<div class="row">
+    <h1>Football </h1>
+    <div class="picture">
+        <img src="/static/assets/connorgoodrb.jpeg" alt="connor" style="width:30%">
+    </div>
+</div>
+<div class="text">
+    <p> American football, referred to simply as football in the United States and Canada and also known as gridiron, is a team sport played by two teams of eleven players on a rectangular field with goalposts at each end. The offense, the team with possession of the oval-shaped football, attempts to advance down the field by running with the ball or passing it, while the defense, the team without possession of the ball, aims to stop the offense's advance and to take control of the ball for themselves. The offense must advance at least ten yards in four downs or plays; if they fail, they turn over the football to the defense, but if they succeed, they are given a new set of four downs to continue the drive. Points are scored primarily by advancing the ball into the opposing team's end zone for a touchdown or kicking the ball through the opponent's goalposts for a field goal. The team with the most points at the end of a game wins.</p>
+</div>
+<div class="extra-info">
+    <table>
+        <tr>
+            <th>2021 Division:</th>
+            <th>2019 Record:</th>
+            <th>League:</th>
+        </tr>
+        <tr>
+            <td>Division IV</td>
+            <td>2-9</td>
+            <td>Palomar</td>
+        </tr>
+    </table>
+
+</div>
+</body>
+</html>

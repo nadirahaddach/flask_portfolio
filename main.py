@@ -115,6 +115,10 @@ def colorcodes():
     path = Path(app.root_path) / "static" / "assets"
     return render_template('colorcodes.html', images=image_data(path))
 
+@app.route('/tri1sport')
+def tri1sport():
+    return render_template('tri1sport.html')
+
 @app.route('/joke', methods=['GET', 'POST'])
 def joke():
     """
