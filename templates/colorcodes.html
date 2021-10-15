@@ -41,9 +41,9 @@
 
     <br />
 
-    <div class="offset-sm-1 col-sm-10" id="color" style="background-color: #000000; height: 20vh;">  <!-- Div that shows off color -->
+    <div class="offset-sm-1 col-sm-10" id="color" style="background-color: #33FFF9; height: 20vh;">  <!-- Div that shows off color -->
     </div>
-    <p style="text-align: center;" id="code">Hexcode: #000000 </p>
+    <p style="text-align: center;" id="code">Hexcode: #33FFF9 </p>
 
     <br />
     <div class = "container"> </div>
@@ -73,7 +73,8 @@
         }
 
 
-        function calculateRow (color) {
+        function calculateRow (color) {    // function that calculates the decimal value for a certain row after one of its buttons is toggled
+            let sum = 0;
             for (var i = 1; i <= 8; i++) {
                 let element = document.getElementById(color + i);
                 sum += Math.pow(2, 8 - i) * parseInt(element.innerHTML);
