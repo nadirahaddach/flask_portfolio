@@ -119,21 +119,6 @@ def colorcodes():
 def quiz():
     return render_template('quiz.html', images=image_data())
 
-@app.route('/sportsgenerator', methods=['GET', 'POST'])
-def sport():
-    url = "https://sportscore1.p.rapidapi.com/sports/1/teams"
-
-    querystring = {"page":"1"}
-
-    headers = {
-    'x-rapidapi-host': "sportscore1.p.rapidapi.com",
-    'x-rapidapi-key': "a2dc907d76mshcd95463944ec47cp16d7a6jsn37846a41a807"
-    }
-
-    response = requests.request("GET", url, headers=headers, params=querystring)
-    return render_template("sportgenerator.html", sport=response.json())
-    print(response.text)
-
 
 # runs the application on the development server
 if __name__ == "__main__":
