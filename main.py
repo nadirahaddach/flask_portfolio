@@ -1,7 +1,7 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
 from algorithms.image import image_data
-
+import requests
 app = Flask(__name__)
 
 
@@ -90,6 +90,14 @@ def conceptsreal():
 def prototype():
     return render_template("prototype.html")
 
+@app.route('/tri1sport/')
+def tri1sport():
+    return render_template("tri1sport.html")
+
+@app.route('/unsigned/')
+def unsigned():
+    return render_template("unsigned.html")
+
 @app.route('/nataliergb/')
 def nataliergb():
     return render_template("nataliergb.html", images=image_data())
@@ -107,7 +115,20 @@ def logicgates():
 def colorcodes():
     return render_template('colorcodes.html', images=image_data())
 
+@app.route('/sportsgenerator', methods=['GET', 'POST'])
+def sport():
+    url = "https://sportscore1.p.rapidapi.com/sports/1/teams"
 
+    querystring = {"page":"1"}
+
+    headers = {
+    'x-rapidapi-host': "sportscore1.p.rapidapi.com",
+    'x-rapidapi-key': "a2dc907d76mshcd95463944ec47cp16d7a6jsn37846a41a807"
+    }
+
+    response = requests.request("GET", url, headers=headers, params=querystring)
+    return render_template("sportgenerator.html", sport=response.json())
+    print(response.text)
 
 
 # runs the application on the development server
