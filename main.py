@@ -119,6 +119,10 @@ def colorcodes():
 def tri1sport():
     return render_template('tri1sport.html')
 
+@app.route('/tri3sport')
+def tri3sport():
+    return render_template('tri3sport.html')
+
 @app.route('/joke', methods=['GET', 'POST'])
 def joke():
     """
