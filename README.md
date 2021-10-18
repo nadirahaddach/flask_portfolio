@@ -115,7 +115,8 @@
 |:----|:-----------------|
 | Quiz | L |
 | Sports Information | L |
-| Main/Welcome Page | L |
+| Main/Welcome Page | L 
+ 
 | Task | Tangible Link |
 |:----|:-----------------|
 | Scrum Master reviews on Wednesday. Present plans, design, features/issues and project ideas (focus should be README and Issues, but reviews can be assisted by Documents or Slides being prepared for Monday presentation. | / |
