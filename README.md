@@ -114,7 +114,7 @@
 |Project Idea | Tangible Link |
 |:----|:-----------------|
 | Quiz | [Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/quiz.html) |
-| Sports Information | L |
+| Sports Information | [Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/tri3sport.html) |
 | Main/Welcome Page | L 
  
 | Task | Tangible Link |
