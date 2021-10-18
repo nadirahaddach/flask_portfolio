@@ -113,7 +113,7 @@
 ### Sprint 7,8 Week 8
 |Project Idea | Tangible Link |
 |:----|:-----------------|
-| Quiz | L |
+| Quiz | [Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/quiz.html) |
 | Sports Information | L |
 | Main/Welcome Page | L 
  
