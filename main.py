@@ -119,6 +119,9 @@ def logicgates():
 def colorcodes():
     return render_template('colorcodes.html', images=image_data())
 
+@app.route('/quiz/')
+def quiz():
+    return render_template('quiz.html', images=image_data())
 
 
 
