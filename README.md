@@ -111,6 +111,12 @@
 |Natalie | Logic Gates.   CB requires an understanding of Expressions.  These are routed in Logic Gates (as language is routed in Latin). Consider an entirely different presentation area and idea.  In this example, you may have two inputs (a,b) and see how changing those inputs changes logic gate outputs (c).  This will likely require a different HTML. | [Logic Gates Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/logicgates.html)
 |Connor | Signed Addition, Subtraction (Selection).  Integer Numbers.  Subtraction (8th bit is a Sign, max number is  +127 and negative -128, overflow now produces negative number.  If sign bit is set the calculation is 128-bits. | [Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/binary-nat.html) |
 ### Sprint 7,8 Week 8
+|Project Idea | Tangible Link |
+|:----|:-----------------|
+| Quiz | [Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/quiz.html) |
+| Sports Information | [Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/tri3sport.html) |
+| Main/Welcome Page | L 
+ 
 | Task | Tangible Link |
 |:----|:-----------------|
 | Scrum Master reviews on Wednesday. Present plans, design, features/issues and project ideas (focus should be README and Issues, but reviews can be assisted by Documents or Slides being prepared for Monday presentation. | / |
