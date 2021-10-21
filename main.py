@@ -123,6 +123,10 @@ def tri1sport():
 def tri2sport():
     return render_template('tri2sport.html')
 
+@app.route('/quiz')
+def quiz():
+    return render_template('quiz.html')
+
 @app.route('/joke', methods=['GET', 'POST'])
 def joke():
     """
