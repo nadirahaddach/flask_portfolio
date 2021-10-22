@@ -3,14 +3,15 @@
 ## Table of Contents
 1. [GitHub repo Contributors](https://github.com/Rebecca-123/m223_team_lovelace#contributors)
 2. Pair Share Journals [Nadira and Connor](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing), [Natalie and Paige](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing)
-3. [Sprint 7,8 week 8](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-78-week-8)
-4. [Sprint 7,8 week 7](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-78-week-7)
-5. [Sprint 5,6 week 6](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-6)
-6. [Sprint 5,6 week 5](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-5)
-7. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-4)
-8. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-3)
-9. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#pbl-12-week-2)
-10. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
+3. [Sprint 9,10 week 9](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-910-week-9)
+4. [Sprint 7,8 week 8](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-78-week-8)
+5. [Sprint 7,8 week 7](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-78-week-7)
+6. [Sprint 5,6 week 6](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-6)
+7. [Sprint 5,6 week 5](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-5)
+8. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-4)
+9. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-3)
+10. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#pbl-12-week-2)
+11. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
 ## Contributors
 | Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
 |:-----|:----------------------|:-----:|:-----------:|:-------:|
@@ -122,8 +123,14 @@
 | Scrum Master reviews on Wednesday. Present plans, design, features/issues and project ideas (focus should be README and Issues, but reviews can be assisted by Documents or Slides being prepared for Monday presentation. | / |
 | Part of 5 minute presentation. Presenting project/ideas and technical highlights, Time Box of Feature/Issues accomplishment in README.| / |
 | Part of 5 minute presentation.  Highlight 2 or 3 technical features, including code.  Mention anything that shows incorporation of mini lab technicals in project.  Be passionate about and technical WOW. | / |
-#### Introduction to APIS 
- #### Hello
+
+### Sprint 9,10 Week 9
+|Member | Video Link| Grades |
+|:----|:-----------------|:----|
+| Nadira | [Video] |
+| Connor | [Video](https://www.loom.com/share/485f8c11c05542b4b30e472cbe416289) |
+| Natalie | [Video] |
+| Paige | [Video] |
  
  
  
