@@ -132,13 +132,7 @@
 | Natalie | [Video] |
 | Paige | [Video] |
  
-### Nadira's Video grade rubric
- |Member | Comments| Grade |
-|:----|:-----------------|:----|
-| Connor | / | 
-| Natalie | / |
-| Paige | / |
- 
+
  
  
  
