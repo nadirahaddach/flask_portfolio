@@ -120,15 +120,15 @@
  
 | Task | Tangible Link |
 |:----|:-----------------|
-| Scrum Master reviews on Wednesday. Present plans, design, features/issues and project ideas (focus should be README and Issues, but reviews can be assisted by Documents or Slides being prepared for Monday presentation. | / |
-| Part of 5 minute presentation. Presenting project/ideas and technical highlights, Time Box of Feature/Issues accomplishment in README.| / |
-| Part of 5 minute presentation.  Highlight 2 or 3 technical features, including code.  Mention anything that shows incorporation of mini lab technicals in project.  Be passionate about and technical WOW. | / |
+| Scrum Master reviews on Wednesday. Present plans, design, features/issues and project ideas (focus should be README and Issues, but reviews can be assisted by Documents or Slides being prepared for Monday presentation. | Done in class |
+| Part of 5 minute presentation. Presenting project/ideas and technical highlights, Time Box of Feature/Issues accomplishment in README.| Done in class |
+| Part of 5 minute presentation.  Highlight 2 or 3 technical features, including code.  Mention anything that shows incorporation of mini lab technicals in project.  Be passionate about and technical WOW. | Done in class |
 
 ### Sprint 9,10 Week 9
 |Member | Video Link| Grades |
 |:----|:-----------------|:----|
-| Nadira | [Video] |
-| Connor | [Video](https://www.loom.com/share/485f8c11c05542b4b30e472cbe416289) |
+| Nadira | [Video] | 
+| Connor | [Video](https://www.loom.com/share/485f8c11c05542b4b30e472cbe416289) | 
 | Natalie | [Video] |
 | Paige | [Video] |
  
