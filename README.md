@@ -132,6 +132,10 @@
 | Natalie | [Video] |
 | Paige | [Video] |
  
+| Task | Tangible |
+|:----|:-----------------|
+| Scrumboard issue with  comments and grades from each team member. | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71406350) | 
+ 
 
  
  
