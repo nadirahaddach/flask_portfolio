@@ -128,7 +128,7 @@
 |Member | Video Link| Grades |
 |:----|:-----------------|:----|
 | Nadira | [Video] |
-| Connor | [Video] |
+| Connor | [Video](https://www.loom.com/share/485f8c11c05542b4b30e472cbe416289) |
 | Natalie | [Video] |
 | Paige | [Video] |
  
