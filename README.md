@@ -126,7 +126,7 @@
 
 ### Sprint 9,10 Week 9
 |Member | Video Link| Grades |
-|:----|:-----------------|
+|:----|:-----------------|:----|
 | Nadira | [Video] |
 | Connor | [Video] |
 | Natalie | [Video] |
