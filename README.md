@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [GitHub repo Contributors](https://github.com/Rebecca-123/m223_team_lovelace#contributors)
 2. Pair Share Journals [Nadira and Connor](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing), [Natalie and Paige](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing)
-3. [Sprint 9,10 week 9](
+3. [Sprint 9,10 week 9](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-910-week-9)
 4. [Sprint 7,8 week 8](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-78-week-8)
 5. [Sprint 7,8 week 7](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-78-week-7)
 6. [Sprint 5,6 week 6](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-6)
