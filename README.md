@@ -132,9 +132,6 @@
 | Natalie | [Video](https://www.loom.com/share/19b0d339b59843dd9f1d0b7b510bbfbb) | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475462) | /6
 | Paige | [Video] | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475361) | /6
  
-| Task | Tangible |
-|:----|:-----------------|
-| Scrumboard issue with  comments and grades from each team member. | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71406350) | 
  
 
  
