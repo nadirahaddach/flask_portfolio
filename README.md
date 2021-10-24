@@ -129,7 +129,7 @@
 |:----|:-----------------|:----|
 | Nadira | [Video] | 
 | Connor | [Video](https://www.loom.com/share/485f8c11c05542b4b30e472cbe416289) | 
-| Natalie | [Video] |
+| Natalie | [Video](https://www.loom.com/share/19b0d339b59843dd9f1d0b7b510bbfbb) |
 | Paige | [Video] |
  
 | Task | Tangible |
