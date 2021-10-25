@@ -127,10 +127,10 @@
 ### Sprint 9,10 Week 9
 |Member | Video Link| Scrumboard Comments/Scores | Average Grade |
 |:----|:-----------------|:----|:----|
-| Nadira | [Video] | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475368) | /6
+| Nadira | [Video](https://www.loom.com/share/8f358b2f50c147659b58df2db3bacae0) | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475368) | /6
 | Connor | [Video](https://www.loom.com/share/485f8c11c05542b4b30e472cbe416289) | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71406350) | /6
 | Natalie | [Video](https://www.loom.com/share/19b0d339b59843dd9f1d0b7b510bbfbb) | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475462) | /6
-| Paige | [Video] | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475744) | /6
+| Paige | [Video](https://www.loom.com/share/91fd0cf6094d42beaa87b62978b74997) | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475744) | /6
  
  
 
