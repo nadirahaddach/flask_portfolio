@@ -120,17 +120,21 @@
  
 | Task | Tangible Link |
 |:----|:-----------------|
-| Scrum Master reviews on Wednesday. Present plans, design, features/issues and project ideas (focus should be README and Issues, but reviews can be assisted by Documents or Slides being prepared for Monday presentation. | / |
-| Part of 5 minute presentation. Presenting project/ideas and technical highlights, Time Box of Feature/Issues accomplishment in README.| / |
-| Part of 5 minute presentation.  Highlight 2 or 3 technical features, including code.  Mention anything that shows incorporation of mini lab technicals in project.  Be passionate about and technical WOW. | / |
+| Scrum Master reviews on Wednesday. Present plans, design, features/issues and project ideas (focus should be README and Issues, but reviews can be assisted by Documents or Slides being prepared for Monday presentation. | Done in class |
+| Part of 5 minute presentation. Presenting project/ideas and technical highlights, Time Box of Feature/Issues accomplishment in README.| Done in class |
+| Part of 5 minute presentation.  Highlight 2 or 3 technical features, including code.  Mention anything that shows incorporation of mini lab technicals in project.  Be passionate about and technical WOW. | Done in class |
 
 ### Sprint 9,10 Week 9
-|Member | Video Link| Grades |
-|:----|:-----------------|:----|
-| Nadira | [Video] |
-| Connor | [Video](https://www.loom.com/share/485f8c11c05542b4b30e472cbe416289) |
-| Natalie | [Video] |
-| Paige | [Video] |
+|Member | Video Link| Scrumboard Comments/Scores | Average Grade |
+|:----|:-----------------|:----|:----|
+| Nadira | [Video](https://www.loom.com/share/8f358b2f50c147659b58df2db3bacae0) | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475368) | 4.75/6
+| Connor | [Video](https://www.loom.com/share/485f8c11c05542b4b30e472cbe416289) | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71406350) | 5.75/6
+| Natalie | [Video](https://www.loom.com/share/19b0d339b59843dd9f1d0b7b510bbfbb) | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475462) | 5.58/6
+| Paige | [Video](https://www.loom.com/share/91fd0cf6094d42beaa87b62978b74997) | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475744) | 5.58/6
+ 
+ 
+
+ 
  
  
  
