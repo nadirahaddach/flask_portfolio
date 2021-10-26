@@ -37,6 +37,10 @@
             color:white;
         }
 
+        .dropdown {
+            text-align: left;
+        }
+
 
         .extra-info {
             padding: 20px;
@@ -57,7 +61,16 @@
 <div class="tri1-welcome">
     <h1>Learn about the Trimester 1 Sports </h1>
     <p>Read up about the sports, and learn about how they fare at Del Norte High School!</p>
-    <a href="#Footballs">Football</a>
+    <p class="dropdown">
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton1" type="button">
+                Greet Dropdowns
+            </a>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+    <a class="dropdown-item" href="#Footballs" style="color: navy">Football</a>
+
+    </p>
+
 
 </div>
 
