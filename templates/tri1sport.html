@@ -297,6 +297,25 @@
         </tr>
     </table>
 </div>
+<body>
+<input type="text" placeholder="Do you want to print this page?" id="wish">
+<script>
+    function cond(){
+        var a=document.getElementById("wish").value;
+        if(a=="yes"){
+            print("Print");
+        }
+        else if(a=="no"){
+            document.write("Click back to return to homepage");
+        }
+        else{
+            print("Print")
+        }
+    }
+</script>
+<button type="button" onclick="cond()">Submit</button>
+
+</body>
 </div>
 </body>
 </html>
