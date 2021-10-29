@@ -43,14 +43,14 @@ def _init_jokes():
         id += 1
 
 
-@api_bp.route('/joke')
+@api_main.route('/joke')
 def get_joke():
     if len(jokes) == 0:
         _init_jokes()
     return jsonify(random.choice(jokes))
 
 
-@api_bp.route('/jokes')
+@api_main.route('/jokes')
 def get_jokes():
     if len(jokes) == 0:
         _init_jokes()

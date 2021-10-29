@@ -38,7 +38,7 @@ def image_data(path=Path("static/assets/"), images=None):  # path of static imag
 
         # Hacks here for images https://www.tutorialspoint.com/python_pillow/index.htm
         # use the open img_object!!!
-        img_object = img_object.filter(ImageFilter.GaussianBlur)
+        img_object = img_object.rotate(45)
 
         # Conversion of original Image to Base64, a string format that serves HTML nicely
         image['base64'] = image_formatter(img_object, image['format'])
@@ -78,7 +78,7 @@ def image_data(path=Path("static/assets/"), images=None):  # path of static imag
 
 # run this as standalone tester to see sample data printed in terminal
 if __name__ == "__main__":
-    local_path = Path("../starter/static/img/")
+    local_path = Path("/static/assets/")
     images = image_data(local_path)  # path of local run
     for image in images:
         # print some details about the image so you can validate that it looks like it is working

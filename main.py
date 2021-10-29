@@ -2,6 +2,7 @@
 import requests
 from flask import Flask, render_template, request
 from algorithms.image import image_data
+from algorithms.sportsimage import s_image
 from pathlib import Path
 
 app = Flask(__name__)
@@ -98,12 +99,14 @@ def unsigned():
 
 @app.route('/nataliergb/')
 def nataliergb():
-    return render_template("nataliergb.html", images=image_data())
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template("nataliergb.html", images=image_data(path))
 
 
 @app.route('/nadirargb/')
 def nadirargb():
-    return render_template('nadirargb.html', images=image_data())
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template('nadirargb.html', images=image_data(path))
 
 @app.route('/logicgates/')
 def logicgates():
@@ -115,13 +118,30 @@ def colorcodes():
     path = Path(app.root_path) / "static" / "assets"
     return render_template('colorcodes.html', images=image_data(path))
 
-@app.route('/tri1sport')
+@app.route('/tri1sport/')
 def tri1sport():
     return render_template('tri1sport.html')
 
-@app.route('/tri3sport')
+@app.route('/tri2sport/')
+def tri2sport():
+    return render_template('tri2sport.html')
+
+@app.route('/tri3sport/')
 def tri3sport():
     return render_template('tri3sport.html')
+
+@app.route('/sportsimage/')
+def sportsimage():
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template('sportsimage.html', simages=s_image(path))
+
+@app.route('/quiz/')
+def quiz():
+    return render_template('quiz.html')
+
+@app.route('/heyall/')
+def heyall():
+    return render_template('heyall.html')
 
 @app.route('/joke', methods=['GET', 'POST'])
 def joke():
