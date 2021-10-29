@@ -1,4 +1,4 @@
-<{% include "layouts/navbar.html" %}
+<{% extends "layouts/navbar.html" %}
 
 {% set BITS = 8 %}
 {#{% set BITS = 8 %}#}
@@ -14,7 +14,7 @@
 {% set msgTurnOn = "Turn On" %}
 {% set msgTurnOff = "Turn Off" %}
 
-{% block head %}
+{% block meta %}
     <html>
     <body style="background-color:beige;">
     </body>
