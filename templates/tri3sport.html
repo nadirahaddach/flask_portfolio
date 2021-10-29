@@ -31,7 +31,12 @@
 
         .text {
             font-size: 20px;
+            background-color:white;
             color:black;
+        }
+
+        .dropdown {
+            text-align:left;;
         }
 
         .extra-info {
@@ -54,10 +59,26 @@
 <div class="tri1-welcome">
     <h1>Learn about the Trimester 3 Sports </h1>
     <p>Read up about the sports, and learn about how they fare at Del Norte High School!</p>
+    <p class="dropdown">
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton1" type="button" style="font-size: 20px;color: white">
+                Sports
+            </a>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+        <a class="dropdown-item" href="#Base" style="color: forestgreen">Baseball</a>
+        <a class="dropdown-item" href="#Golf" style="color: navy">Golf</a>
+        <a class="dropdown-item" href="#soft" style="color: forestgreen">Softball</a>
+        <a class="dropdown-item" href="#Gym" style="color: navy">Gymnastics</a>
+        <a class="dropdown-item" href="#Swim" style="color: forestgreen">Swim & Dive</a>
+        <a class="dropdown-item" href="#Tennis" style="color: navy">Boys' Tennis</a>
+        <a class="dropdown-item" href="#Track" style="color: forestgreen">Track and Field</a>
+        <a class="dropdown-item" href="#Volley" style="color: navy">Boys' Volleyball</a>
+        </p>
+    </div>
 </div>
 
 <div class="row">
-    <h1>Lacrosse </h1>
+    <h1 id="Lax"> Lacrosse </h1>
     <div class="picture">
         <img src="" alt="" style="width:30%">
     </div>
@@ -82,7 +103,7 @@
     </table>
 </div>
 <div class="row">
-    <h1>Baseball </h1>
+    <h1 id="Base">Baseball </h1>
     <div class="picture">
         <img src="" alt="" style="width:30%">
     </div>
@@ -106,7 +127,7 @@
     </table>
 </div>
 <div class="row">
-    <h1>Golf </h1>
+    <h1 id="Golf"> Golf </h1>
     <div class="picture">
         <img src="" alt="" style="width:30%">
     </div>
@@ -130,7 +151,7 @@
     </table>
 </div>
 <div class="row">
-    <h1>Softball </h1>
+    <h1 id="soft"> Softball </h1>
     <div class="picture">
         <img src="" alt="" style="width:30%">
     </div>
@@ -154,7 +175,7 @@
     </table>
 </div>
 <div class="row">
-    <h1>Gymnastics </h1>
+    <h1 id="Gym"> Gymnastics </h1>
     <div class="picture">
         <img src="" alt="" style="width:30%">
     </div>
@@ -178,7 +199,7 @@
     </table>
 </div>
 <div class="row">
-    <h1>Swim & Dive </h1>
+    <h1 id="Swim"> Swim & Dive </h1>
     <div class="picture">
         <img src="" alt="" style="width:30%">
     </div>
@@ -202,7 +223,7 @@
     </table>
 </div>
 <div class="row">
-    <h1>Boys' Tennis </h1>
+    <h1 id="Tennis"> Boys' Tennis </h1>
     <div class="picture">
         <img src="" alt="" style="width:30%">
     </div>
@@ -226,7 +247,7 @@
     </table>
 </div>
 <div class="row">
-    <h1>Track and Field </h1>
+    <h1 id="Track"> Track and Field </h1>
     <div class="picture">
         <img src="" alt="" style="width:30%">
     </div>
@@ -250,7 +271,7 @@
     </table>
 </div>
 <div class="row">
-    <h1>Boys' Volleyball </h1>
+    <h1 id="Volley"> Boys' Volleyball </h1>
     <div class="picture">
         <img src="" alt="" style="width:30%">
     </div>
