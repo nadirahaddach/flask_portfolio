@@ -132,6 +132,14 @@
 | Natalie | [Video](https://www.loom.com/share/19b0d339b59843dd9f1d0b7b510bbfbb) | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475462) | 5.58/6
 | Paige | [Video](https://www.loom.com/share/91fd0cf6094d42beaa87b62978b74997) | [Card](https://github.com/nadirahaddach/flask_portfolio/projects/1#card-71475744) | 5.58/6
  
+### Sprint 9,10 Week 10
+| Website Improvement/Addition | Tangible |
+|:----|:-----------------|
+| Sports API | L
+| Jump to a specific sport | L
+| Sports HYPE page | L
+| Website organization (dropdown within a dropdown) | L
+
  
 
  
