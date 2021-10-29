@@ -1,6 +1,7 @@
-{% include "layouts/navbar.html" %}
-
 <!DOCTYPE html>
+{% extends "layouts/navbar.html" %}
+
+{% block style %}
 <html>
 <head>
     <title>Del Norte Sports Quiz</title>
@@ -50,8 +51,9 @@
         }
 
     </style>
+{% endblock %}
 
-
+    {% block body %}
 </head>
 <body>
 <div id="main">
@@ -90,9 +92,9 @@
 
     <p>Your grade is: <span id="grade">__</span></p>
     <p id="grade2"></p>
+    {% endblock %}
 
-
-
+{% block meta %}
     <script>
         document.getElementById("form1").onsubmit=function() {
             variable = parseInt(document.querySelector('input[name = "variable"]:checked').value);
@@ -131,4 +133,5 @@
 </div>
 </body>
 </html>
+{% endblock %}
 
