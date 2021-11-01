@@ -16,8 +16,16 @@
 
 <head>
 
-<h2 class="w3-center" style="color: white">DEL NORTE SPORTS</h2>
+    <p id="demo" style="text-align: center; font-size: larger; font-family: Baskerville; color: #fffefe">Click!!</p>
 
+    <script>
+        document.getElementById("demo").onclick = function() {myFunction()};
+
+        function myFunction() {
+            document.getElementById("demo").innerHTML = "Welcome to our Website";
+        }
+    </script>
+    </p>
 
 <div class="w3-content w3-section" style="max-width:500px">
     <body style="background-color:midnightblue;">
@@ -45,25 +53,5 @@
         setTimeout(carousel, 2000); // Change image every 2 seconds
     }
 </script>
-    <body>
-    <input type="text" placeholder="Do you want to play a sport?" id="wish">
-    <script>
-        function cond(){
-            var a=document.getElementById("wish").value;
-            if(a=="yes"){
-                print("This is the place for you!");
-            }
-            else if(a=="no"){
-                print("leave");
-            }
-            else{
-                print("why are you here?")
-            }
-        }
-    </script>
-    <button type="button" onclick="cond()">Submit</button>
 
-    </body>
-
-</body>
 </html>
