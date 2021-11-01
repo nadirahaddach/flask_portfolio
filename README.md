@@ -1,4 +1,5 @@
 # AP CSP Period 4: Team Slimes
+### 3-4 Line description of Project (what it is, etc.)
 ## [Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1)
 ## Table of Contents
 1. [GitHub repo Contributors](https://github.com/Rebecca-123/m223_team_lovelace#contributors)
