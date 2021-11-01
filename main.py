@@ -97,6 +97,10 @@ def unsigned():
 def quiz():
     return render_template("quiz.html")
 
+@app.route('/quiz2/')
+def quiz2():
+    return render_template("quiz2.html")
+
 @app.route('/nataliergb/')
 def nataliergb():
     return render_template("nataliergb.html", images=image_data())
