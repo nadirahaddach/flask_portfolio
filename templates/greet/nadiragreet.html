@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+{% include "layouts/navbar.html" %}
+
+{% block body %}
+    <div class="center-block" style="margin: 2% 5% 5%; text-align:center; font-family: Gill Sans, sans-serif;">
+        <div class="col-12">
+            <h4 style="color:indigo">Nadira Haddach</h4>
+            <p   style="color:white">Nice to meet you, {{name1}}!</p>
+        </div>
+
+        <div class="col-12">
+            <form action="/greet/" id="greet" method="POST" >
+                <label style="color:white" for="name">How are you doing today Mr./Mrs</label>
+                <input name="name" id="name">
+                <input type="submit" value="Welcome!">
+            </form>
+        </div>
+        <body style="background-color:lavender;">
+    <img class="mySlides" src="/static/assets/soccer.jpg" style="width:100%">
+{% endblock %}
+{% block background %}
+{% endblock %}

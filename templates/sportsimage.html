@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+{% include "layouts/navbar.html" %}
+{% block content %}
+    <h1 class="text-center">SPORTS IMAGES TO GET YOU HYPED</h1>
+    <div class="container">
+    <div class="row justify-content-md-center">
+    <table class="table">
+    <tr>
+        <th>Sport</th>
+        <th>LETS GOOOOO</th>
+    </tr>
+        <tr>
+        <td>
+            {% for image in simages %}
+                <tr>
+                    <td>
+                        <div>{{image.pic}}</div>
+                        <div>{{image.file}}</div>
+        </td>
+                <td>
+                    <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64}}" >
+                </td>
+        </tr>
+            {% endfor %}
+{% endblock %}
