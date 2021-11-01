@@ -137,7 +137,7 @@
 | Website Improvement/Addition | Tangible |
 |:----|:-----------------|
 | Sports API | L
-| Jump to a specific sport | L
+| Jump to a specific sport | [Code](https://github.com/connorw72/real/blob/main/tri3sport.html)
 | Sports HYPE page | [Python Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/algorithms/sportsimage.py)
 | Website organization (dropdown within a dropdown) | L
 
