@@ -97,6 +97,10 @@ def prototype():
 def unsigned():
     return render_template("unsigned.html")
 
+@app.route('/quiz2/')
+def quiz2():
+    return render_template("quiz2.html")
+
 @app.route('/nataliergb/')
 def nataliergb():
     path = Path(app.root_path) / "static" / "assets"

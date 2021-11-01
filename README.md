@@ -1,4 +1,5 @@
 # AP CSP Period 4: Team Slimes
+### 3-4 Line description of Project (what it is, etc.)
 ## [Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1)
 ## Table of Contents
 1. [GitHub repo Contributors](https://github.com/Rebecca-123/m223_team_lovelace#contributors)
@@ -137,8 +138,8 @@
 | Website Improvement/Addition | Tangible |
 |:----|:-----------------|
 | Sports API | L
-| Jump to a specific sport | L
-| Sports HYPE page | L
+| Jump to a specific sport and Click for more Information | [Code](https://github.com/connorw72/real/blob/main/tri3sport.html)
+| Sports HYPE page | [Python Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/algorithms/sportsimage.py)
 | Website organization (dropdown within a dropdown) | L
 
  
