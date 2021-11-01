@@ -21,7 +21,7 @@ def s_image(path=Path("static/assets/"), simages=None):  # path of static images
             {'pic': "Field Hockey", 'file': "NatalieFieldHockey.jpg"},
             {'pic': "Basketball", 'file': "basketball.jpeg"},
             {'pic': "Volleyball", 'file': "volleyball.jpeg"},
-            {'pic': "Soccer", 'file': "connorgoodrb.jpeg"},
+            {'pic': "Soccer", 'file': "soccer.jpg"},
             {'pic': "Dance", 'file': "dance.jpeg"}
         ]
     # gather analysis data and meta data for each image, adding attributes to each row in table

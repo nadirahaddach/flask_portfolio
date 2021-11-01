@@ -2,6 +2,7 @@
 import requests
 from flask import Flask, render_template, request
 from algorithms.image import image_data
+from algorithms.sportsimage import s_image
 from pathlib import Path
 
 app = Flask(__name__)
@@ -96,14 +97,20 @@ def prototype():
 def unsigned():
     return render_template("unsigned.html")
 
+@app.route('/quiz2/')
+def quiz2():
+    return render_template("quiz2.html")
+
 @app.route('/nataliergb/')
 def nataliergb():
-    return render_template("nataliergb.html", images=image_data())
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template("nataliergb.html", images=image_data(path))
 
 
 @app.route('/nadirargb/')
 def nadirargb():
-    return render_template('nadirargb.html', images=image_data())
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template('nadirargb.html', images=image_data(path))
 
 @app.route('/logicgates/')
 def logicgates():
@@ -115,56 +122,51 @@ def colorcodes():
     path = Path(app.root_path) / "static" / "assets"
     return render_template('colorcodes.html', images=image_data(path))
 
-@app.route('/tri1sport')
+@app.route('/tri1sport/')
 def tri1sport():
     return render_template('tri1sport.html')
 
-@app.route('/tri3sport')
+@app.route('/tri2sport/')
+def tri2sport():
+    return render_template('tri2sport.html')
+
+@app.route('/tri3sport/')
 def tri3sport():
     return render_template('tri3sport.html')
 
-@app.route('/joke', methods=['GET', 'POST'])
-def joke():
-    """
-    # use this url to test on and make modification on you own machine
-    url = "http://127.0.0.1:5222/api/joke"
-    """
-    url = "https://csp.nighthawkcodingsociety.com/api/joke"
-    response = requests.request("GET", url)
-    return render_template("joke.html", joke=response.json())
+@app.route('/sportsimage/')
+def sportsimage():
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template('sportsimage.html', simages=s_image(path))
 
+@app.route('/quiz/')
+def quiz():
+    return render_template('quiz.html')
 
-@app.route('/jokes', methods=['GET', 'POST'])
-def jokes():
-    """
-    # use this url to test on and make modification on you own machine
-    url = "http://127.0.0.1:5222/api/jokes"
-    """
-    url = "https://csp.nighthawkcodingsociety.com/api/jokes"
-    response = requests.request("GET", url)
-    return render_template("jokes.html", jokes=response.json())
+@app.route('/heyall/')
+def heyall():
+    return render_template('heyall.html')
 
-@app.route('/covid19', methods=['GET', 'POST'])
-def covid19():
-    url = "https://corona-virus-world-and-india-data.p.rapidapi.com/api"
+@app.route('/sportapi', methods=['GET', 'POST'])
+def sportapi():
+    url = "https://sportscore1.p.rapidapi.com/sports/1/teams"
+
+    querystring = {"page":"1"}
+
     headers = {
-        'x-rapidapi-key': "dec069b877msh0d9d0827664078cp1a18fajsn2afac35ae063",
-        'x-rapidapi-host': "corona-virus-world-and-india-data.p.rapidapi.com"
+        'x-rapidapi-host': "sportscore1.p.rapidapi.com",
+        'x-rapidapi-key': "a2dc907d76mshcd95463944ec47cp16d7a6jsn37846a41a807"
     }
 
-    response = requests.request("GET", url, headers=headers)
 
-    """
-    # uncomment this code to test from terminal
-    world = response.json().get('world_total')
-    countries = response.json().get('countries_stat')
-    print(world['total_cases'])
-    for country in countries:
-        print(country["country_name"])
-    """
+    response = requests.request("GET", url, headers=headers, params=querystring)
+    #team_list = json.loads(response.json())
+    #team_random = random.choice(team_list)
+    #print(json.dumps(team_random))
 
-    return render_template("covid19.html", stats=response.json())
+    return render_template("sportapi.html", sport=response.json())
 
+    print(response.text)
 
 
 # runs the application on the development server
