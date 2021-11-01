@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+{% include "layouts/navbar.html" %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hi</title>
+</head>
+<body>
+<input type="text" placeholder="Want to learn about sports??" id="wish">
+<script>
+    function cond(){
+        var a=document.getElementById("wish").value;
+        if(a=="yes"){
+            document.write("This is the place for you!");
+        }
+        else if(a=="no"){
+            document.write("leave");
+        }
+        else{
+            document.write("why are you here?")
+        }
+    }
+</script>
+<button type="button" onclick="cond()">Submit</button>
+
+</body>
+</html>
