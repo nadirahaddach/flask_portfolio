@@ -11,9 +11,9 @@
 7. [Sprint 5,6 week 6](https://github.com/nadirahaddach/flask_portfolio#sprint-56-week-6)
 8. [Sprint 5,6 week 5](https://github.com/nadirahaddach/flask_portfolio#sprint-56-week-5)
 9. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio#sprint-34-week-4)
-10.[Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio#sprint-34-week-3)
-11.[PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio#pbl-12-week-2)
-12.[Week 1](https://github.com/nadirahaddach/flask_portfolio#week-1)
+10. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio#sprint-34-week-3)
+11. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio#pbl-12-week-2)
+12. [Week 1](https://github.com/nadirahaddach/flask_portfolio#week-1)
 ## Contributors
 | Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
 |:-----|:----------------------|:-----:|:-----------:|:-------:|
