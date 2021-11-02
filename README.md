@@ -137,7 +137,7 @@
 ### Sprint 9,10 Week 10
 | Website Improvement/Addition | Tangible |
 |:----|:-----------------|
-| Sports API | (https://github.com/connorw72/real/blob/main/webapi.py)
+| Sports API | [API Code](https://github.com/connorw72/real/blob/main/webapi.py)
 | Jump to a specific sport and Click for more Information | [Code](https://github.com/connorw72/real/blob/main/tri3sport.html)
 | Sports HYPE page | [Python Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/algorithms/sportsimage.py)
 | Website organization (dropdown within a dropdown) | L
