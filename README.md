@@ -1,6 +1,6 @@
 # AP CSP Period 4: Team Slimes
 ## Description of Project (what it is, etc.)
-### The website by the Slimes is made to spread information on the sports that Del Norte High School has to offer. Going through the website, you will find different information such as teams, descriptions of each sport, when each is played, and statistics specific to a sport. In addition, there is a quiz to test how well you have absorbed the information presented to you, while providing a visually appealing site to navigate through. Welcomed by a beautiful home page, the DNHS Sports Information page is the place to fulfill all your sporting needs.
+#### The website by the Slimes is made to spread information on the sports that Del Norte High School has to offer. Going through the website, you will find different information such as teams, descriptions of each sport, when each is played, and statistics specific to a sport. In addition, there is a quiz to test how well you have absorbed the information presented to you, while providing a visually appealing site to navigate through. Welcomed by a beautiful home page, the DNHS Sports Information page is the place to fulfill all your sporting needs.
 ## [Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1)
 ## Table of Contents
 1. [GitHub repo Contributors](https://github.com/Rebecca-123/m223_team_lovelace#contributors)
