@@ -99,7 +99,7 @@ def unsigned():
 
 @app.route('/quiz2/')
 def quiz2():
-    return render_template("quiz2.html")
+    return render_template("tickettoplay.html")
 
 @app.route('/nataliergb/')
 def nataliergb():
