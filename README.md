@@ -1,19 +1,20 @@
 # AP CSP Period 4: Team Slimes
-### 3-4 Line description of Project (what it is, etc.)
+## Description of Project (what it is, etc.)
+#### The website by the Slimes is made to spread information on the sports that Del Norte High School has to offer. Going through the website, you will find different information such as teams, descriptions of each sport, when each is played, and statistics specific to a sport. In addition, there is a quiz to test how well you have absorbed the information presented to you, while providing a visually appealing site to navigate through. Welcomed by a beautiful home page, the DNHS Sports Information page is the place to fulfill all your sporting needs.
 ## [Scrum Board](https://github.com/nadirahaddach/flask_portfolio/projects/1)
 ## Table of Contents
 1. [GitHub repo Contributors](https://github.com/Rebecca-123/m223_team_lovelace#contributors)
 2. Pair Share Journals [Nadira and Connor](https://docs.google.com/document/d/1_j-e40zfmPSHvgEj49D3VCS49GdZbYkZ9xrVLVLaxvM/edit?usp=sharing), [Natalie and Paige](https://docs.google.com/document/d/1HkT_OstSQ8gq3h-AORQhIVi0-DE2xPCkxM8nl_TOch0/edit?usp=sharing)
-3. [Sprint 9,10 week 10](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-910-week-10)
-4. [Sprint 9,10 week 9](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-910-week-9)
-5. [Sprint 7,8 week 8](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-78-week-8)
-6. [Sprint 7,8 week 7](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-78-week-7)
-7. [Sprint 5,6 week 6](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-6)
-8. [Sprint 5,6 week 5](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-56-week-5)
-9. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-4)
-10. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#sprint-34-week-3)
-11. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#pbl-12-week-2)
-12. [Week 1](https://github.com/nadirahaddach/flask_portfolio/blob/main/README.md#week-1)
+3. [Sprint 9,10 week 10](https://github.com/nadirahaddach/flask_portfolio#sprint-910-week-10)
+4. [Sprint 9,10 week 9](https://github.com/nadirahaddach/flask_portfolio#sprint-910-week-9)
+5. [Sprint 7,8 week 8](https://github.com/nadirahaddach/flask_portfolio#sprint-78-week-8)
+6. [Sprint 7,8 week 7](https://github.com/nadirahaddach/flask_portfolio#sprint-78-week-7)
+7. [Sprint 5,6 week 6](https://github.com/nadirahaddach/flask_portfolio#sprint-56-week-6)
+8. [Sprint 5,6 week 5](https://github.com/nadirahaddach/flask_portfolio#sprint-56-week-5)
+9. [Sprint 3,4 Week 4](https://github.com/nadirahaddach/flask_portfolio#sprint-34-week-4)
+10. [Sprint 3,4 Week 3](https://github.com/nadirahaddach/flask_portfolio#sprint-34-week-3)
+11. [PBL 1,2 Week 2](https://github.com/nadirahaddach/flask_portfolio#pbl-12-week-2)
+12. [Week 1](https://github.com/nadirahaddach/flask_portfolio#week-1)
 ## Contributors
 | Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
 |:-----|:----------------------|:-----:|:-----------:|:-------:|
@@ -137,10 +138,11 @@
 ### Sprint 9,10 Week 10
 | Website Improvement/Addition | Tangible |
 |:----|:-----------------|
-| Sports API | L
-| Jump to a specific sport and Click for more Information | [Code](https://github.com/connorw72/real/blob/main/tri3sport.html)
+| Sports API | [API Code](https://github.com/connorw72/real/blob/main/webapi.py)
+| Jump to a specific sport | [Code](https://github.com/connorw72/real/blob/main/tri3sport.html)
 | Sports HYPE page | [Python Code](https://github.com/nadirahaddach/flask_portfolio/blob/main/algorithms/sportsimage.py)
-| Website organization (dropdown within a dropdown) | L
+| N/A | L
+| Click for more Information | [Code](https://github.com/connorw72/real/blob/main/tri3sport.html)
 
  
 
