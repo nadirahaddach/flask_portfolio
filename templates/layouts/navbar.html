@@ -33,10 +33,11 @@ This HTML is setup as a fragment allowing it to be "included" by other HTML file
                 Sports Information
             </a>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                <a class="dropdown-item" href="{{ url_for('sportsimage') }}">Overview</a>
                 <a class="dropdown-item" href="{{ url_for('tri1sport') }}">Trimester 1 Sports</a>
                 <a class="dropdown-item" href="{{ url_for('tri2sport') }}">Trimester 2 Sports</a>
                 <a class="dropdown-item" href="{{ url_for('tri3sport') }}">Trimester 3 Sports</a>
-                <a class="dropdown-item" href="{{ url_for('sportsimage') }}">HYPE</a>
+
 
         <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton1" type="button">

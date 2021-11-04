@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 {% include "layouts/navbar.html" %}
 {% block content %}
-    <h1 class="text-center">SPORTS IMAGES TO GET YOU HYPED</h1>
+    <h1 class="text-center">Overview of all Sports!</h1>
     <div class="container">
     <div class="row justify-content-md-center">
     <table class="table">
     <tr>
         <th>Sport</th>
-        <th>LETS GOOOOO</th>
+        <th>In Action</th>
     </tr>
         <tr>
         <td>
@@ -15,7 +15,7 @@
                 <tr>
                     <td>
                         <div>{{image.pic}}</div>
-                        <div>{{image.file}}</div>
+                        <div>{{image.info}}</div>
         </td>
                 <td>
                     <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64}}" >
