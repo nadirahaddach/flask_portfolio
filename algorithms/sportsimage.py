@@ -17,12 +17,25 @@ def image_formatter(img, img_type):
 def s_image(path=Path("static/assets/"), simages=None):  # path of static images is defaulted
     if simages is None:  # color_dict is defined with defaults
         simages = [
-            {'pic': "Football", 'file': "connorfootball2.jpg"},
-            {'pic': "Field Hockey", 'file': "NatalieFieldHockey.jpg"},
-            {'pic': "Basketball", 'file': "basketball.jpeg"},
-            {'pic': "Volleyball", 'file': "volleyball.jpeg"},
-            {'pic': "Soccer", 'file': "connorgoodrb.jpeg"},
-            {'pic': "Dance", 'file': "dance.jpeg"}
+            {'pic': "Football", 'info': "Go to Trimester 1 for more Information!", 'file': "connorfootball2.jpg"},
+            {'pic': "Volleyball", 'info': "Go to Trimester 1 for girls, and Trimester 3 for boys for more Information!", 'file': "paigevolley.jpg"},
+            {'pic': "Cheer", 'info': "Go to Trimester 1 for more Information!", 'file': "cheer.jpeg"},
+            {'pic': "Cross Country", 'info': "Go to Trimester 1 for more Information!", 'file': "crosscountry.jpeg"},
+            {'pic': "Dance", 'info': "Go to Trimester 1 for more Information!", 'file': "dance.jpeg"},
+            {'pic': "Field Hockey", 'info': "Go to Trimester 1 for more Information!", 'file': "NatalieFieldHockey.jpg"},
+            {'pic': "Golf", 'info': "Go to Trimester 1 for girls, and Trimester 3 for boys for more Information!", 'file': "girlsgolf.jpeg"},
+            {'pic': "Tennis", 'info': "Go to Trimester 1 for girls, and Trimester 3 for boys more Information!", 'file': ""},
+            {'pic': "Water Polo", 'info': "Go to Trimester 1 for boys, and Trimester 2 for girls for more Information!", 'file': "waterpolo.jpeg"},
+            {'pic': "Basketball", 'info': "Go to Trimester 2 for more Information", 'file': "basketballjv.jpeg"},
+            {'pic': "Soccer", 'info': "Go to Trimester 2 for more Information!", 'file': "soccerjv.jpeg"},
+            {'pic': "Wrestling", 'info': "Go to Trimester 2 for more Information!", 'file': "wrestling.jpeg"},
+            {'pic': "Rugby", 'info': "Go to Trimester 2 for more Information!", 'file': "prorugby.jpeg"},
+            {'pic': "Lacrosse", 'info': "Go to Trimester 3 for more Information!", 'file': "lax.jpeg"},
+            {'pic': "Baseball", 'info': "Go to Trimester 3 for more Information!", 'file': "baseball.jpg"},
+            {'pic': "Softball", 'info': "Go to Trimester 3 for more Information!", 'file': "softball.jpeg"},
+            {'pic': "Gymnastics", 'info': "Go to Trimester 3 for more Information!", 'file': "gymnastics.jpeg"},
+            {'pic': "Swim & Dive", 'info': "Go to Trimester 3 for more Information!", 'file': "swim.jpeg"},
+            {'pic': "Track and Field", 'info': "Go to Trimester 3 for more Information!", 'file': "track.jpeg"},
         ]
     # gather analysis data and meta data for each image, adding attributes to each row in table
     for image in simages:
