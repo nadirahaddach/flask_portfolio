@@ -24,7 +24,7 @@ def s_image(path=Path("static/assets/"), simages=None):  # path of static images
             {'pic': "Dance", 'info': "Go to Trimester 1 for more Information!", 'file': "dance.jpeg"},
             {'pic': "Field Hockey", 'info': "Go to Trimester 1 for more Information!", 'file': "NatalieFieldHockey.jpg"},
             {'pic': "Golf", 'info': "Go to Trimester 1 for girls, and Trimester 3 for boys for more Information!", 'file': "girlsgolf.jpeg"},
-            {'pic': "Tennis", 'info': "Go to Trimester 1 for girls, and Trimester 3 for boys more Information!", 'file': ""},
+            {'pic': "Tennis", 'info': "Go to Trimester 1 for girls, and Trimester 3 for boys more Information!", 'file': "tennis.jpeg"},
             {'pic': "Water Polo", 'info': "Go to Trimester 1 for boys, and Trimester 2 for girls for more Information!", 'file': "waterpolo.jpeg"},
             {'pic': "Basketball", 'info': "Go to Trimester 2 for more Information", 'file': "basketballjv.jpeg"},
             {'pic': "Soccer", 'info': "Go to Trimester 2 for more Information!", 'file': "soccerjv.jpeg"},
