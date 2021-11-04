@@ -1,29 +1,10 @@
 <!DOCTYPE html>
-
-{% extends "layouts/navbar.html" %}
-
-{% block body %}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light" style="background-color:whitesmoke">
-    <a class="navbar-brand" href="/">Sports Information</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <ul class="navbar-nav">
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('mainpage') }}">About Us</a></li>
 
-
-        <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuButton1" type="button">
-                Greet Dropdowns
-            </a>
-            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                <a class="dropdown-item" href="{{ url_for('greet') }}">Nadira Haddach</a>
 </body>
 </html>
-{% endblock %}

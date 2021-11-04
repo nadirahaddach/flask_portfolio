@@ -84,7 +84,16 @@
     </div>
 </div>
 <div class="text">
-    <p> /</p>
+    <p id="FB" style="text-align: center; font-size: larger; font-family: Baskerville">Click for more information!</p>
+
+    <script>
+        document.getElementById("FB").onclick = function() {myFunction()};
+
+        function myFunction() {
+            document.getElementById("FB").innerHTML = "Info about sport";
+        }
+    </script>
+    </p>
 </div>
 <div class="extra-info">
     <table>
@@ -109,7 +118,16 @@
     </div>
 </div>
 <div class="text">
-    <p> /</p>
+    <p id="Soccer" style="text-align: center; font-size: larger; font-family: Baskerville">Click for more information!</p>
+
+    <script>
+        document.getElementById("Soccer").onclick = function() {myFunction1()};
+
+        function myFunction1() {
+            document.getElementById("Soccer").innerHTML = "Info about sport";
+        }
+    </script>
+    </p>
 </div>
 <div class="extra-info">
     <table>
@@ -133,7 +151,16 @@
     </div>
 </div>
 <div class="text">
-    <p> /</p>
+    <p id="WP" style="text-align: center; font-size: larger; font-family: Baskerville">Click for more information!</p>
+
+    <script>
+        document.getElementById("WP").onclick = function() {myFunction3()};
+
+        function myFunction3() {
+            document.getElementById("WP").innerHTML = "Info about sport";
+        }
+    </script>
+    </p>
 </div>
 <div class="extra-info">
     <table>
@@ -157,7 +184,16 @@
     </div>
 </div>
 <div class="text">
-    <p>/</p>
+    <p id="wrestling" style="text-align: center; font-size: larger; font-family: Baskerville">Click for more information!</p>
+
+    <script>
+        document.getElementById("wrestling").onclick = function() {myFunction2()};
+
+        function myFunction2() {
+            document.getElementById("wrestling").innerHTML = "Info about sport";
+        }
+    </script>
+    </p>
 </div>
 <div class="extra-info">
     <table>
@@ -182,7 +218,16 @@
     </div>
 </div>
 <div class="text">
-    <p>/</p>
+    <p id="rugby" style="text-align: center; font-size: larger; font-family: Baskerville">Click for more information!</p>
+
+    <script>
+        document.getElementById("rugby").onclick = function() {myFunction4()};
+
+        function myFunction4() {
+            document.getElementById("rugby").innerHTML = "Info about sport";
+        }
+    </script>
+    </p>
 </div>
 <div class="extra-info">
     <table>
@@ -199,5 +244,24 @@
     </table>
 </div>
 </div>
+<body>
+<input type="text" placeholder="Do you want to print this page?" id="wish">
+<script>
+    function cond(){
+        var a=document.getElementById("wish").value;
+        if(a=="yes"){
+            print("Print");
+        }
+        else if(a=="no"){
+            document.write("Click back to return to homepage");
+        }
+        else{
+            print("Print")
+        }
+    }
+</script>
+<button type="button" onclick="cond()">Submit</button>
+
+</body>
 </body>
 </html>

@@ -130,6 +130,11 @@ def tri1sport():
 def tri2sport():
     return render_template('tri2sport.html')
 
+
+@app.route('/heyall/')
+def heyall():
+    return render_template('heyall.html')
+
 @app.route('/tri3sport/')
 def tri3sport():
     return render_template('tri3sport.html')
@@ -143,9 +148,6 @@ def sportsimage():
 def quiz():
     return render_template('quiz.html')
 
-@app.route('/heyall/')
-def heyall():
-    return render_template('heyall.html')
 
 @app.route('/sportapi', methods=['GET', 'POST'])
 def sportapi():
