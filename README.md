@@ -32,11 +32,7 @@
 | Nadira | [Nadira's Greet](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/greet.html) | 
 | Paige | [Paige's Greet](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/paigegreet.html) | 
 | Connor | [Connor's Greet](https://github.com/nadirahaddach/flask_portfolio/blob/main/templates/connorgreet.html) | 
-#### Integrated Greet
-#### Made a Greet page for each member and made it a mini-lab page
-#### Made greet function on each persons page
 ### Sprint 3,4 Week 3
-#### Updated this README
 #### [Slideshow of work](https://docs.google.com/presentation/u/1/d/1SH-1WUK1O5zUQeE5RvXn43u9vL2SrhAG-BYu56saefk/edit?usp=drive_open&ouid=102460731047727587232)
 | Project/page | Code | 
 |:-----|:----------------------|
